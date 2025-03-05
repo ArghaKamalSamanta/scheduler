@@ -1,0 +1,35 @@
+{
+  "NUM_ACTIVITIES": 150,
+  "ACTIVITY_TYPES": [
+    "Fitness routine/exercise",
+    "Food consumption",
+    "Medication consumption",
+    "Therapy",
+    "Consultation"
+  ],
+  "EQUIPMENT": [
+    "Running Shoes",
+    "Yoga Mat",
+    "Dumbbells",
+    "Resistance Bands",
+    "Blood Pressure Monitor",
+    "Sauna",
+    "Ice Bath Tub",
+    "Stationary Bike",
+    "Weight Scale",
+    "Food Scale",
+    "Pill Organizer"
+  ],
+  "SPECIALISTS": [
+    "Personal Trainer",
+    "Nutritionist",
+    "Physical Therapist",
+    "Yoga Instructor",
+    "Health Coach",
+    "Therapy Specialist",
+    "General Practitioner"
+  ],
+  "equip_total": 92,
+  "sp_total": 92,
+  "travel_total": 10
+}

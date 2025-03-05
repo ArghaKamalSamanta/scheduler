@@ -1,0 +1,3407 @@
+[
+  {
+    "id": 1,
+    "activity_type": "Medication consumption",
+    "description": "Prescription Session #1",
+    "frequency": "twice a month",
+    "details": "Take 3 tablet(s)",
+    "facilitator": "Yoga Instructor",
+    "location": "Virtual",
+    "remote_possible": true,
+    "prep_needed": "Pill organizer filled",
+    "backup_activities": [
+      "Delayed administration with doctor's approval"
+    ],
+    "adjustments": "Reschedule within 3 days if missed",
+    "metrics": "Timing, Dosage",
+    "required_equipment": [],
+    "required_specialists": [
+      "Nutritionist"
+    ],
+    "required_allied_health": [
+      "Dietitian"
+    ]
+  },
+  {
+    "id": 2,
+    "activity_type": "Therapy",
+    "description": "Physical Plan #2",
+    "frequency": "twice a week",
+    "details": "Session duration: 52 minutes",
+    "facilitator": "Health Coach",
+    "location": "Local Park",
+    "remote_possible": false,
+    "prep_needed": "Towels",
+    "backup_activities": [
+      "Self-massage routine",
+      "Stretching routine"
+    ],
+    "adjustments": "Reschedule within 2 days if missed",
+    "metrics": "Recovery rate, Perceived exertion",
+    "required_equipment": [],
+    "required_specialists": [
+      "Personal Trainer"
+    ],
+    "required_allied_health": []
+  },
+  {
+    "id": 3,
+    "activity_type": "Consultation",
+    "description": "Medication Plan #3",
+    "frequency": "3 times a week",
+    "details": "Discuss progress and next steps",
+    "facilitator": "Physical Therapist",
+    "location": "Home",
+    "remote_possible": false,
+    "prep_needed": "Questions prepared",
+    "backup_activities": [
+      "Text message update"
+    ],
+    "adjustments": "Reschedule within 2 days if missed",
+    "metrics": "Progress notes, Next steps",
+    "required_equipment": [],
+    "required_specialists": [
+      "General Practitioner"
+    ],
+    "required_allied_health": [
+      "Occupational Therapist"
+    ]
+  },
+  {
+    "id": 4,
+    "activity_type": "Therapy",
+    "description": "Occupational Check #4",
+    "frequency": "3 times a week",
+    "details": "Session duration: 48 minutes",
+    "facilitator": "Nutritionist",
+    "location": "Clinic",
+    "remote_possible": false,
+    "prep_needed": "Towels",
+    "backup_activities": [
+      "Stretching routine"
+    ],
+    "adjustments": "Reschedule within 3 days if missed",
+    "metrics": "Perceived exertion, Recovery rate",
+    "required_equipment": [
+      "Ice Bath Tub"
+    ],
+    "required_specialists": [
+      "Personal Trainer"
+    ],
+    "required_allied_health": []
+  },
+  {
+    "id": 5,
+    "activity_type": "Medication consumption",
+    "description": "Supplement Routine #5",
+    "frequency": "3 times a week",
+    "details": "Take 1 tablet(s)",
+    "facilitator": "Therapy Specialist",
+    "location": "Gym",
+    "remote_possible": true,
+    "prep_needed": "Pill organizer filled",
+    "backup_activities": [
+      "Liquid alternative"
+    ],
+    "adjustments": "Reschedule within 2 days if missed",
+    "metrics": "Dosage, Timing",
+    "required_equipment": [],
+    "required_specialists": [
+      "Yoga Instructor"
+    ],
+    "required_allied_health": [
+      "Dietitian"
+    ]
+  },
+  {
+    "id": 6,
+    "activity_type": "Food consumption",
+    "description": "Dinner Session #6",
+    "frequency": "twice a week",
+    "details": "Ensure protein intake",
+    "facilitator": "Health Coach",
+    "location": "Gym",
+    "remote_possible": true,
+    "prep_needed": "Supplements ready",
+    "backup_activities": [
+      "Meal replacement shake",
+      "Nutritional smoothie"
+    ],
+    "adjustments": "Reschedule within 3 days if missed",
+    "metrics": "Macronutrients, Calories",
+    "required_equipment": [],
+    "required_specialists": [
+      "General Practitioner"
+    ],
+    "required_allied_health": []
+  },
+  {
+    "id": 7,
+    "activity_type": "Fitness routine/exercise",
+    "description": "Cardio Routine #7",
+    "frequency": "once a month",
+    "details": "Maintain HR between 125 bpm",
+    "facilitator": "Personal Trainer",
+    "location": "Virtual",
+    "remote_possible": false,
+    "prep_needed": "Water bottle",
+    "backup_activities": [
+      "Walking"
+    ],
+    "adjustments": "Reschedule within 2 days if missed",
+    "metrics": "Duration, Heart rate",
+    "required_equipment": [],
+    "required_specialists": [
+      "Yoga Instructor"
+    ],
+    "required_allied_health": [
+      "Dietitian"
+    ]
+  },
+  {
+    "id": 8,
+    "activity_type": "Medication consumption",
+    "description": "Prescription Check #8",
+    "frequency": "twice a month",
+    "details": "Take 1 tablet(s)",
+    "facilitator": "Therapy Specialist",
+    "location": "Spa Center",
+    "remote_possible": false,
+    "prep_needed": "Pill organizer filled",
+    "backup_activities": [
+      "Liquid alternative"
+    ],
+    "adjustments": "Reschedule within 3 days if missed",
+    "metrics": "Timing, Dosage",
+    "required_equipment": [],
+    "required_specialists": [
+      "Nutritionist"
+    ],
+    "required_allied_health": []
+  },
+  {
+    "id": 9,
+    "activity_type": "Food consumption",
+    "description": "Supplement Plan #9",
+    "frequency": "3 times a week",
+    "details": "Ensure vitamins intake",
+    "facilitator": "Personal Trainer",
+    "location": "Clinic",
+    "remote_possible": false,
+    "prep_needed": "Meal prepped",
+    "backup_activities": [
+      "Meal replacement shake"
+    ],
+    "adjustments": "Reschedule within 1 days if missed",
+    "metrics": "Macronutrients, Calories",
+    "required_equipment": [],
+    "required_specialists": [
+      "Health Coach"
+    ],
+    "required_allied_health": []
+  },
+  {
+    "id": 10,
+    "activity_type": "Therapy",
+    "description": "Occupational Session #10",
+    "frequency": "daily",
+    "details": "Session duration: 21 minutes",
+    "facilitator": "Therapy Specialist",
+    "location": "Local Park",
+    "remote_possible": false,
+    "prep_needed": "Towels",
+    "backup_activities": [
+      "Stretching routine"
+    ],
+    "adjustments": "Reschedule within 1 days if missed",
+    "metrics": "Recovery rate, Perceived exertion",
+    "required_equipment": [],
+    "required_specialists": [
+      "Yoga Instructor"
+    ],
+    "required_allied_health": [
+      "Speech Therapist"
+    ]
+  },
+  {
+    "id": 11,
+    "activity_type": "Consultation",
+    "description": "Medication Session #11",
+    "frequency": "daily",
+    "details": "Discuss progress and next steps",
+    "facilitator": "General Practitioner",
+    "location": "Home",
+    "remote_possible": true,
+    "prep_needed": "Questions prepared",
+    "backup_activities": [
+      "Text message update",
+      "Email follow-up"
+    ],
+    "adjustments": "Reschedule within 2 days if missed",
+    "metrics": "Next steps, Progress notes",
+    "required_equipment": [],
+    "required_specialists": [
+      "Health Coach"
+    ],
+    "required_allied_health": []
+  },
+  {
+    "id": 12,
+    "activity_type": "Medication consumption",
+    "description": "Supplement Routine #12",
+    "frequency": "twice a week",
+    "details": "Take 1 tablet(s)",
+    "facilitator": "Yoga Instructor",
+    "location": "Clinic",
+    "remote_possible": true,
+    "prep_needed": "Pill organizer filled",
+    "backup_activities": [
+      "Delayed administration with doctor's approval",
+      "Alternative dosage form (e.g., chewable)"
+    ],
+    "adjustments": "Reschedule within 1 days if missed",
+    "metrics": "Timing, Dosage",
+    "required_equipment": [],
+    "required_specialists": [
+      "Nutritionist"
+    ],
+    "required_allied_health": [
+      "Speech Therapist"
+    ]
+  },
+  {
+    "id": 13,
+    "activity_type": "Medication consumption",
+    "description": "Dose Plan #13",
+    "frequency": "once a month",
+    "details": "Take 3 tablet(s)",
+    "facilitator": "Health Coach",
+    "location": "Virtual",
+    "remote_possible": true,
+    "prep_needed": "Pill organizer filled",
+    "backup_activities": [
+      "Delayed administration with doctor's approval"
+    ],
+    "adjustments": "Reschedule within 2 days if missed",
+    "metrics": "Timing, Dosage",
+    "required_equipment": [],
+    "required_specialists": [
+      "Therapy Specialist"
+    ],
+    "required_allied_health": [
+      "Physiotherapist"
+    ]
+  },
+  {
+    "id": 14,
+    "activity_type": "Food consumption",
+    "description": "Dinner Plan #14",
+    "frequency": "3 times a week",
+    "details": "Ensure protein intake",
+    "facilitator": "Personal Trainer",
+    "location": "Gym",
+    "remote_possible": false,
+    "prep_needed": "Meal prepped",
+    "backup_activities": [
+      "Pre-packaged healthy meal",
+      "Nutritional smoothie"
+    ],
+    "adjustments": "Reschedule within 2 days if missed",
+    "metrics": "Calories, Macronutrients",
+    "required_equipment": [],
+    "required_specialists": [
+      "Health Coach"
+    ],
+    "required_allied_health": [
+      "Occupational Therapist"
+    ]
+  },
+  {
+    "id": 15,
+    "activity_type": "Therapy",
+    "description": "Occupational Check #15",
+    "frequency": "once a week",
+    "details": "Session duration: 50 minutes",
+    "facilitator": "Physical Therapist",
+    "location": "Spa Center",
+    "remote_possible": false,
+    "prep_needed": "Towels",
+    "backup_activities": [
+      "Stretching routine"
+    ],
+    "adjustments": "Reschedule within 3 days if missed",
+    "metrics": "Perceived exertion, Recovery rate",
+    "required_equipment": [],
+    "required_specialists": [
+      "Therapy Specialist"
+    ],
+    "required_allied_health": []
+  },
+  {
+    "id": 16,
+    "activity_type": "Fitness routine/exercise",
+    "description": "Strength Routine #16",
+    "frequency": "twice a week",
+    "details": "Maintain HR between 151 bpm",
+    "facilitator": "Physical Therapist",
+    "location": "Gym",
+    "remote_possible": true,
+    "prep_needed": "Water bottle",
+    "backup_activities": [
+      "Bodyweight exercises"
+    ],
+    "adjustments": "Reschedule within 2 days if missed",
+    "metrics": "Duration, Heart rate",
+    "required_equipment": [],
+    "required_specialists": [
+      "Health Coach"
+    ],
+    "required_allied_health": [
+      "Dietitian"
+    ]
+  },
+  {
+    "id": 17,
+    "activity_type": "Therapy",
+    "description": "Respiratory Routine #17",
+    "frequency": "twice a month",
+    "details": "Session duration: 18 minutes",
+    "facilitator": "Nutritionist",
+    "location": "Rehabilitation Center",
+    "remote_possible": true,
+    "prep_needed": "Towels",
+    "backup_activities": [
+      "Self-massage routine"
+    ],
+    "adjustments": "Reschedule within 1 days if missed",
+    "metrics": "Perceived exertion, Recovery rate",
+    "required_equipment": [
+      "Ice Bath Tub"
+    ],
+    "required_specialists": [
+      "Therapy Specialist"
+    ],
+    "required_allied_health": [
+      "Speech Therapist"
+    ]
+  },
+  {
+    "id": 18,
+    "activity_type": "Medication consumption",
+    "description": "Vitamin Session #18",
+    "frequency": "once a month",
+    "details": "Take 1 tablet(s)",
+    "facilitator": "Therapy Specialist",
+    "location": "Local Park",
+    "remote_possible": true,
+    "prep_needed": "Pill organizer filled",
+    "backup_activities": [
+      "Liquid alternative"
+    ],
+    "adjustments": "Reschedule within 1 days if missed",
+    "metrics": "Dosage, Timing",
+    "required_equipment": [],
+    "required_specialists": [
+      "Personal Trainer"
+    ],
+    "required_allied_health": []
+  },
+  {
+    "id": 19,
+    "activity_type": "Consultation",
+    "description": "Therapy Check #19",
+    "frequency": "twice a month",
+    "details": "Discuss progress and next steps",
+    "facilitator": "Therapy Specialist",
+    "location": "Virtual",
+    "remote_possible": false,
+    "prep_needed": "Questions prepared",
+    "backup_activities": [
+      "Phone consultation",
+      "Text message update"
+    ],
+    "adjustments": "Reschedule within 2 days if missed",
+    "metrics": "Progress notes, Next steps",
+    "required_equipment": [],
+    "required_specialists": [
+      "Yoga Instructor"
+    ],
+    "required_allied_health": [
+      "Physiotherapist"
+    ]
+  },
+  {
+    "id": 20,
+    "activity_type": "Therapy",
+    "description": "Sauna Plan #20",
+    "frequency": "twice a month",
+    "details": "Session duration: 18 minutes",
+    "facilitator": "Nutritionist",
+    "location": "Rehabilitation Center",
+    "remote_possible": false,
+    "prep_needed": "Towels",
+    "backup_activities": [
+      "Stretching routine"
+    ],
+    "adjustments": "Reschedule within 3 days if missed",
+    "metrics": "Perceived exertion, Recovery rate",
+    "required_equipment": [],
+    "required_specialists": [
+      "Nutritionist"
+    ],
+    "required_allied_health": [
+      "Physiotherapist"
+    ]
+  },
+  {
+    "id": 21,
+    "activity_type": "Medication consumption",
+    "description": "Dose Session #21",
+    "frequency": "twice a week",
+    "details": "Take 3 tablet(s)",
+    "facilitator": "Personal Trainer",
+    "location": "Clinic",
+    "remote_possible": false,
+    "prep_needed": "Pill organizer filled",
+    "backup_activities": [
+      "Delayed administration with doctor's approval"
+    ],
+    "adjustments": "Reschedule within 2 days if missed",
+    "metrics": "Timing, Dosage",
+    "required_equipment": [],
+    "required_specialists": [
+      "Therapy Specialist"
+    ],
+    "required_allied_health": [
+      "Dietitian"
+    ]
+  },
+  {
+    "id": 22,
+    "activity_type": "Consultation",
+    "description": "Nutrition Session #22",
+    "frequency": "once a month",
+    "details": "Discuss progress and next steps",
+    "facilitator": "Personal Trainer",
+    "location": "Local Park",
+    "remote_possible": false,
+    "prep_needed": "Questions prepared",
+    "backup_activities": [
+      "Phone consultation",
+      "Text message update"
+    ],
+    "adjustments": "Reschedule within 3 days if missed",
+    "metrics": "Next steps, Progress notes",
+    "required_equipment": [],
+    "required_specialists": [
+      "Physical Therapist"
+    ],
+    "required_allied_health": []
+  },
+  {
+    "id": 23,
+    "activity_type": "Consultation",
+    "description": "Progress Plan #23",
+    "frequency": "daily",
+    "details": "Discuss progress and next steps",
+    "facilitator": "Health Coach",
+    "location": "Virtual",
+    "remote_possible": false,
+    "prep_needed": "Questions prepared",
+    "backup_activities": [
+      "Email follow-up",
+      "Text message update"
+    ],
+    "adjustments": "Reschedule within 1 days if missed",
+    "metrics": "Progress notes, Next steps",
+    "required_equipment": [],
+    "required_specialists": [
+      "General Practitioner"
+    ],
+    "required_allied_health": []
+  },
+  {
+    "id": 24,
+    "activity_type": "Fitness routine/exercise",
+    "description": "Strength Routine #24",
+    "frequency": "once a month",
+    "details": "Maintain HR between 118 bpm",
+    "facilitator": "Health Coach",
+    "location": "Clinic",
+    "remote_possible": true,
+    "prep_needed": "Proper attire",
+    "backup_activities": [
+      "Bodyweight exercises",
+      "Walking"
+    ],
+    "adjustments": "Reschedule within 3 days if missed",
+    "metrics": "Heart rate, Duration",
+    "required_equipment": [],
+    "required_specialists": [
+      "Physical Therapist"
+    ],
+    "required_allied_health": []
+  },
+  {
+    "id": 25,
+    "activity_type": "Food consumption",
+    "description": "Supplement Routine #25",
+    "frequency": "once a week",
+    "details": "Ensure protein intake",
+    "facilitator": "Health Coach",
+    "location": "Rehabilitation Center",
+    "remote_possible": true,
+    "prep_needed": "Meal prepped",
+    "backup_activities": [
+      "Pre-packaged healthy meal"
+    ],
+    "adjustments": "Reschedule within 2 days if missed",
+    "metrics": "Macronutrients, Calories",
+    "required_equipment": [],
+    "required_specialists": [
+      "Yoga Instructor"
+    ],
+    "required_allied_health": []
+  },
+  {
+    "id": 26,
+    "activity_type": "Consultation",
+    "description": "Nutrition Plan #26",
+    "frequency": "once a week",
+    "details": "Discuss progress and next steps",
+    "facilitator": "Nutritionist",
+    "location": "Virtual",
+    "remote_possible": false,
+    "prep_needed": "Questions prepared",
+    "backup_activities": [
+      "Phone consultation",
+      "Email follow-up"
+    ],
+    "adjustments": "Reschedule within 1 days if missed",
+    "metrics": "Next steps, Progress notes",
+    "required_equipment": [],
+    "required_specialists": [
+      "Health Coach"
+    ],
+    "required_allied_health": []
+  },
+  {
+    "id": 27,
+    "activity_type": "Consultation",
+    "description": "Nutrition Routine #27",
+    "frequency": "twice a week",
+    "details": "Discuss progress and next steps",
+    "facilitator": "Yoga Instructor",
+    "location": "Rehabilitation Center",
+    "remote_possible": false,
+    "prep_needed": "Questions prepared",
+    "backup_activities": [
+      "Text message update"
+    ],
+    "adjustments": "Reschedule within 1 days if missed",
+    "metrics": "Progress notes, Next steps",
+    "required_equipment": [],
+    "required_specialists": [
+      "Therapy Specialist"
+    ],
+    "required_allied_health": []
+  },
+  {
+    "id": 28,
+    "activity_type": "Fitness routine/exercise",
+    "description": "Strength Routine #28",
+    "frequency": "once a month",
+    "details": "Maintain HR between 125 bpm",
+    "facilitator": "Nutritionist",
+    "location": "Rehabilitation Center",
+    "remote_possible": false,
+    "prep_needed": "Water bottle",
+    "backup_activities": [
+      "Walking",
+      "Bodyweight exercises"
+    ],
+    "adjustments": "Reschedule within 1 days if missed",
+    "metrics": "Duration, Heart rate",
+    "required_equipment": [],
+    "required_specialists": [
+      "Therapy Specialist"
+    ],
+    "required_allied_health": [
+      "Dietitian"
+    ]
+  },
+  {
+    "id": 29,
+    "activity_type": "Therapy",
+    "description": "Respiratory Check #29",
+    "frequency": "once a month",
+    "details": "Session duration: 19 minutes",
+    "facilitator": "Therapy Specialist",
+    "location": "Local Park",
+    "remote_possible": false,
+    "prep_needed": "Towels",
+    "backup_activities": [
+      "Guided meditation session",
+      "Self-massage routine"
+    ],
+    "adjustments": "Reschedule within 1 days if missed",
+    "metrics": "Perceived exertion, Recovery rate",
+    "required_equipment": [],
+    "required_specialists": [
+      "Yoga Instructor"
+    ],
+    "required_allied_health": [
+      "Physiotherapist"
+    ]
+  },
+  {
+    "id": 30,
+    "activity_type": "Consultation",
+    "description": "Progress Session #30",
+    "frequency": "once a month",
+    "details": "Discuss progress and next steps",
+    "facilitator": "Yoga Instructor",
+    "location": "Virtual",
+    "remote_possible": false,
+    "prep_needed": "Questions prepared",
+    "backup_activities": [
+      "Phone consultation",
+      "Email follow-up"
+    ],
+    "adjustments": "Reschedule within 3 days if missed",
+    "metrics": "Progress notes, Next steps",
+    "required_equipment": [],
+    "required_specialists": [
+      "Physical Therapist"
+    ],
+    "required_allied_health": [
+      "Dietitian"
+    ]
+  },
+  {
+    "id": 31,
+    "activity_type": "Fitness routine/exercise",
+    "description": "Recovery Plan #31",
+    "frequency": "twice a month",
+    "details": "Maintain HR between 157 bpm",
+    "facilitator": "Personal Trainer",
+    "location": "Rehabilitation Center",
+    "remote_possible": true,
+    "prep_needed": "Proper attire",
+    "backup_activities": [
+      "Bodyweight exercises"
+    ],
+    "adjustments": "Reschedule within 2 days if missed",
+    "metrics": "Duration, Heart rate",
+    "required_equipment": [],
+    "required_specialists": [
+      "Therapy Specialist"
+    ],
+    "required_allied_health": [
+      "Physiotherapist"
+    ]
+  },
+  {
+    "id": 32,
+    "activity_type": "Therapy",
+    "description": "Physical Routine #32",
+    "frequency": "once a month",
+    "details": "Session duration: 17 minutes",
+    "facilitator": "General Practitioner",
+    "location": "Home",
+    "remote_possible": true,
+    "prep_needed": "Water",
+    "backup_activities": [
+      "Guided meditation session"
+    ],
+    "adjustments": "Reschedule within 3 days if missed",
+    "metrics": "Perceived exertion, Recovery rate",
+    "required_equipment": [
+      "Sauna"
+    ],
+    "required_specialists": [
+      "Nutritionist"
+    ],
+    "required_allied_health": [
+      "Physiotherapist"
+    ]
+  },
+  {
+    "id": 33,
+    "activity_type": "Medication consumption",
+    "description": "Prescription Routine #33",
+    "frequency": "twice a week",
+    "details": "Take 3 tablet(s)",
+    "facilitator": "Yoga Instructor",
+    "location": "Virtual",
+    "remote_possible": true,
+    "prep_needed": "Pill organizer filled",
+    "backup_activities": [
+      "Liquid alternative",
+      "Alternative dosage form (e.g., chewable)"
+    ],
+    "adjustments": "Reschedule within 2 days if missed",
+    "metrics": "Dosage, Timing",
+    "required_equipment": [],
+    "required_specialists": [
+      "Therapy Specialist"
+    ],
+    "required_allied_health": [
+      "Dietitian"
+    ]
+  },
+  {
+    "id": 34,
+    "activity_type": "Therapy",
+    "description": "Respiratory Plan #34",
+    "frequency": "twice a week",
+    "details": "Session duration: 46 minutes",
+    "facilitator": "Therapy Specialist",
+    "location": "Clinic",
+    "remote_possible": true,
+    "prep_needed": "Water",
+    "backup_activities": [
+      "Guided meditation session",
+      "Stretching routine"
+    ],
+    "adjustments": "Reschedule within 2 days if missed",
+    "metrics": "Perceived exertion, Recovery rate",
+    "required_equipment": [
+      "Sauna"
+    ],
+    "required_specialists": [
+      "Nutritionist"
+    ],
+    "required_allied_health": [
+      "Physiotherapist"
+    ]
+  },
+  {
+    "id": 35,
+    "activity_type": "Food consumption",
+    "description": "Supplement Session #35",
+    "frequency": "twice a month",
+    "details": "Ensure vitamins intake",
+    "facilitator": "Therapy Specialist",
+    "location": "Home",
+    "remote_possible": false,
+    "prep_needed": "Supplements ready",
+    "backup_activities": [
+      "Nutritional smoothie"
+    ],
+    "adjustments": "Reschedule within 2 days if missed",
+    "metrics": "Calories, Macronutrients",
+    "required_equipment": [],
+    "required_specialists": [
+      "Therapy Specialist"
+    ],
+    "required_allied_health": []
+  },
+  {
+    "id": 36,
+    "activity_type": "Fitness routine/exercise",
+    "description": "Cardio Session #36",
+    "frequency": "twice a month",
+    "details": "Maintain HR between 100 bpm",
+    "facilitator": "Health Coach",
+    "location": "Clinic",
+    "remote_possible": true,
+    "prep_needed": "Water bottle",
+    "backup_activities": [
+      "Bodyweight exercises"
+    ],
+    "adjustments": "Reschedule within 3 days if missed",
+    "metrics": "Heart rate, Duration",
+    "required_equipment": [],
+    "required_specialists": [
+      "Physical Therapist"
+    ],
+    "required_allied_health": [
+      "Occupational Therapist"
+    ]
+  },
+  {
+    "id": 37,
+    "activity_type": "Consultation",
+    "description": "Therapy Routine #37",
+    "frequency": "once a week",
+    "details": "Discuss progress and next steps",
+    "facilitator": "Yoga Instructor",
+    "location": "Virtual",
+    "remote_possible": true,
+    "prep_needed": "Questions prepared",
+    "backup_activities": [
+      "Phone consultation",
+      "Email follow-up"
+    ],
+    "adjustments": "Reschedule within 2 days if missed",
+    "metrics": "Progress notes, Next steps",
+    "required_equipment": [],
+    "required_specialists": [
+      "Personal Trainer"
+    ],
+    "required_allied_health": []
+  },
+  {
+    "id": 38,
+    "activity_type": "Fitness routine/exercise",
+    "description": "Strength Session #38",
+    "frequency": "once a month",
+    "details": "Maintain HR between 100 bpm",
+    "facilitator": "Yoga Instructor",
+    "location": "Spa Center",
+    "remote_possible": true,
+    "prep_needed": "Proper attire",
+    "backup_activities": [
+      "Bodyweight exercises"
+    ],
+    "adjustments": "Reschedule within 2 days if missed",
+    "metrics": "Heart rate, Duration",
+    "required_equipment": [],
+    "required_specialists": [
+      "Physical Therapist"
+    ],
+    "required_allied_health": []
+  },
+  {
+    "id": 39,
+    "activity_type": "Therapy",
+    "description": "Occupational Plan #39",
+    "frequency": "twice a month",
+    "details": "Session duration: 15 minutes",
+    "facilitator": "Nutritionist",
+    "location": "Spa Center",
+    "remote_possible": false,
+    "prep_needed": "Towels",
+    "backup_activities": [
+      "Self-massage routine",
+      "Guided meditation session"
+    ],
+    "adjustments": "Reschedule within 1 days if missed",
+    "metrics": "Perceived exertion, Recovery rate",
+    "required_equipment": [],
+    "required_specialists": [
+      "Yoga Instructor"
+    ],
+    "required_allied_health": [
+      "Physiotherapist"
+    ]
+  },
+  {
+    "id": 40,
+    "activity_type": "Therapy",
+    "description": "Sauna Routine #40",
+    "frequency": "twice a week",
+    "details": "Session duration: 56 minutes",
+    "facilitator": "Health Coach",
+    "location": "Local Park",
+    "remote_possible": false,
+    "prep_needed": "Towels",
+    "backup_activities": [
+      "Self-massage routine"
+    ],
+    "adjustments": "Reschedule within 1 days if missed",
+    "metrics": "Perceived exertion, Recovery rate",
+    "required_equipment": [],
+    "required_specialists": [
+      "Health Coach"
+    ],
+    "required_allied_health": []
+  },
+  {
+    "id": 41,
+    "activity_type": "Medication consumption",
+    "description": "Vitamin Routine #41",
+    "frequency": "once a week",
+    "details": "Take 3 tablet(s)",
+    "facilitator": "General Practitioner",
+    "location": "Gym",
+    "remote_possible": false,
+    "prep_needed": "Pill organizer filled",
+    "backup_activities": [
+      "Alternative dosage form (e.g., chewable)"
+    ],
+    "adjustments": "Reschedule within 1 days if missed",
+    "metrics": "Dosage, Timing",
+    "required_equipment": [],
+    "required_specialists": [
+      "Nutritionist"
+    ],
+    "required_allied_health": [
+      "Physiotherapist"
+    ]
+  },
+  {
+    "id": 42,
+    "activity_type": "Therapy",
+    "description": "Respiratory Check #42",
+    "frequency": "twice a week",
+    "details": "Session duration: 56 minutes",
+    "facilitator": "Therapy Specialist",
+    "location": "Home",
+    "remote_possible": true,
+    "prep_needed": "Towels",
+    "backup_activities": [
+      "Stretching routine",
+      "Self-massage routine"
+    ],
+    "adjustments": "Reschedule within 3 days if missed",
+    "metrics": "Perceived exertion, Recovery rate",
+    "required_equipment": [
+      "Sauna"
+    ],
+    "required_specialists": [
+      "Health Coach"
+    ],
+    "required_allied_health": [
+      "Occupational Therapist"
+    ]
+  },
+  {
+    "id": 43,
+    "activity_type": "Medication consumption",
+    "description": "Vitamin Check #43",
+    "frequency": "daily",
+    "details": "Take 3 tablet(s)",
+    "facilitator": "Physical Therapist",
+    "location": "Clinic",
+    "remote_possible": false,
+    "prep_needed": "Pill organizer filled",
+    "backup_activities": [
+      "Alternative dosage form (e.g., chewable)"
+    ],
+    "adjustments": "Reschedule within 1 days if missed",
+    "metrics": "Timing, Dosage",
+    "required_equipment": [],
+    "required_specialists": [
+      "Therapy Specialist"
+    ],
+    "required_allied_health": [
+      "Occupational Therapist"
+    ]
+  },
+  {
+    "id": 44,
+    "activity_type": "Consultation",
+    "description": "Progress Plan #44",
+    "frequency": "3 times a week",
+    "details": "Discuss progress and next steps",
+    "facilitator": "Therapy Specialist",
+    "location": "Spa Center",
+    "remote_possible": true,
+    "prep_needed": "Questions prepared",
+    "backup_activities": [
+      "Email follow-up",
+      "Phone consultation"
+    ],
+    "adjustments": "Reschedule within 2 days if missed",
+    "metrics": "Next steps, Progress notes",
+    "required_equipment": [],
+    "required_specialists": [
+      "Health Coach"
+    ],
+    "required_allied_health": [
+      "Occupational Therapist"
+    ]
+  },
+  {
+    "id": 45,
+    "activity_type": "Therapy",
+    "description": "Sauna Plan #45",
+    "frequency": "twice a month",
+    "details": "Session duration: 23 minutes",
+    "facilitator": "Yoga Instructor",
+    "location": "Clinic",
+    "remote_possible": false,
+    "prep_needed": "Water",
+    "backup_activities": [
+      "Stretching routine"
+    ],
+    "adjustments": "Reschedule within 3 days if missed",
+    "metrics": "Perceived exertion, Recovery rate",
+    "required_equipment": [],
+    "required_specialists": [
+      "Personal Trainer"
+    ],
+    "required_allied_health": []
+  },
+  {
+    "id": 46,
+    "activity_type": "Food consumption",
+    "description": "Snack Plan #46",
+    "frequency": "once a week",
+    "details": "Ensure vitamins intake",
+    "facilitator": "Therapy Specialist",
+    "location": "Gym",
+    "remote_possible": true,
+    "prep_needed": "Supplements ready",
+    "backup_activities": [
+      "Pre-packaged healthy meal",
+      "Nutritional smoothie"
+    ],
+    "adjustments": "Reschedule within 2 days if missed",
+    "metrics": "Calories, Macronutrients",
+    "required_equipment": [],
+    "required_specialists": [
+      "Therapy Specialist"
+    ],
+    "required_allied_health": []
+  },
+  {
+    "id": 47,
+    "activity_type": "Food consumption",
+    "description": "Breakfast Plan #47",
+    "frequency": "twice a month",
+    "details": "Ensure fiber intake",
+    "facilitator": "Physical Therapist",
+    "location": "Spa Center",
+    "remote_possible": true,
+    "prep_needed": "Meal prepped",
+    "backup_activities": [
+      "Nutritional smoothie"
+    ],
+    "adjustments": "Reschedule within 1 days if missed",
+    "metrics": "Calories, Macronutrients",
+    "required_equipment": [],
+    "required_specialists": [
+      "Physical Therapist"
+    ],
+    "required_allied_health": []
+  },
+  {
+    "id": 48,
+    "activity_type": "Fitness routine/exercise",
+    "description": "Evening Routine #48",
+    "frequency": "once a month",
+    "details": "Maintain HR between 114 bpm",
+    "facilitator": "Personal Trainer",
+    "location": "Local Park",
+    "remote_possible": true,
+    "prep_needed": "Water bottle",
+    "backup_activities": [
+      "Bodyweight exercises",
+      "Walking"
+    ],
+    "adjustments": "Reschedule within 1 days if missed",
+    "metrics": "Duration, Heart rate",
+    "required_equipment": [],
+    "required_specialists": [
+      "General Practitioner"
+    ],
+    "required_allied_health": []
+  },
+  {
+    "id": 49,
+    "activity_type": "Consultation",
+    "description": "Progress Plan #49",
+    "frequency": "3 times a week",
+    "details": "Discuss progress and next steps",
+    "facilitator": "Physical Therapist",
+    "location": "Rehabilitation Center",
+    "remote_possible": true,
+    "prep_needed": "Questions prepared",
+    "backup_activities": [
+      "Email follow-up",
+      "Phone consultation"
+    ],
+    "adjustments": "Reschedule within 1 days if missed",
+    "metrics": "Progress notes, Next steps",
+    "required_equipment": [],
+    "required_specialists": [
+      "Personal Trainer"
+    ],
+    "required_allied_health": [
+      "Occupational Therapist"
+    ]
+  },
+  {
+    "id": 50,
+    "activity_type": "Consultation",
+    "description": "Therapy Routine #50",
+    "frequency": "3 times a week",
+    "details": "Discuss progress and next steps",
+    "facilitator": "Yoga Instructor",
+    "location": "Home",
+    "remote_possible": false,
+    "prep_needed": "Questions prepared",
+    "backup_activities": [
+      "Phone consultation"
+    ],
+    "adjustments": "Reschedule within 3 days if missed",
+    "metrics": "Progress notes, Next steps",
+    "required_equipment": [],
+    "required_specialists": [
+      "Yoga Instructor"
+    ],
+    "required_allied_health": []
+  },
+  {
+    "id": 51,
+    "activity_type": "Fitness routine/exercise",
+    "description": "Morning Plan #51",
+    "frequency": "3 times a week",
+    "details": "Maintain HR between 122 bpm",
+    "facilitator": "Personal Trainer",
+    "location": "Virtual",
+    "remote_possible": false,
+    "prep_needed": "Water bottle",
+    "backup_activities": [
+      "Bodyweight exercises"
+    ],
+    "adjustments": "Reschedule within 2 days if missed",
+    "metrics": "Heart rate, Duration",
+    "required_equipment": [],
+    "required_specialists": [
+      "Nutritionist"
+    ],
+    "required_allied_health": [
+      "Speech Therapist"
+    ]
+  },
+  {
+    "id": 52,
+    "activity_type": "Food consumption",
+    "description": "Breakfast Session #52",
+    "frequency": "once a month",
+    "details": "Ensure fiber intake",
+    "facilitator": "Yoga Instructor",
+    "location": "Spa Center",
+    "remote_possible": true,
+    "prep_needed": "Meal prepped",
+    "backup_activities": [
+      "Nutritional smoothie",
+      "Meal replacement shake"
+    ],
+    "adjustments": "Reschedule within 2 days if missed",
+    "metrics": "Macronutrients, Calories",
+    "required_equipment": [],
+    "required_specialists": [
+      "Yoga Instructor"
+    ],
+    "required_allied_health": [
+      "Physiotherapist"
+    ]
+  },
+  {
+    "id": 53,
+    "activity_type": "Fitness routine/exercise",
+    "description": "Morning Routine #53",
+    "frequency": "daily",
+    "details": "Maintain HR between 109 bpm",
+    "facilitator": "Personal Trainer",
+    "location": "Home",
+    "remote_possible": false,
+    "prep_needed": "Water bottle",
+    "backup_activities": [
+      "Walking"
+    ],
+    "adjustments": "Reschedule within 3 days if missed",
+    "metrics": "Duration, Heart rate",
+    "required_equipment": [],
+    "required_specialists": [
+      "Nutritionist"
+    ],
+    "required_allied_health": [
+      "Speech Therapist"
+    ]
+  },
+  {
+    "id": 54,
+    "activity_type": "Therapy",
+    "description": "Occupational Session #54",
+    "frequency": "once a week",
+    "details": "Session duration: 58 minutes",
+    "facilitator": "Nutritionist",
+    "location": "Rehabilitation Center",
+    "remote_possible": true,
+    "prep_needed": "Towels",
+    "backup_activities": [
+      "Guided meditation session"
+    ],
+    "adjustments": "Reschedule within 3 days if missed",
+    "metrics": "Recovery rate, Perceived exertion",
+    "required_equipment": [],
+    "required_specialists": [
+      "Yoga Instructor"
+    ],
+    "required_allied_health": [
+      "Physiotherapist"
+    ]
+  },
+  {
+    "id": 55,
+    "activity_type": "Food consumption",
+    "description": "Snack Routine #55",
+    "frequency": "daily",
+    "details": "Ensure fiber intake",
+    "facilitator": "Yoga Instructor",
+    "location": "Clinic",
+    "remote_possible": true,
+    "prep_needed": "Supplements ready",
+    "backup_activities": [
+      "Meal replacement shake"
+    ],
+    "adjustments": "Reschedule within 1 days if missed",
+    "metrics": "Calories, Macronutrients",
+    "required_equipment": [],
+    "required_specialists": [
+      "Nutritionist"
+    ],
+    "required_allied_health": [
+      "Dietitian"
+    ]
+  },
+  {
+    "id": 56,
+    "activity_type": "Consultation",
+    "description": "Medication Check #56",
+    "frequency": "once a week",
+    "details": "Discuss progress and next steps",
+    "facilitator": "Nutritionist",
+    "location": "Clinic",
+    "remote_possible": true,
+    "prep_needed": "Questions prepared",
+    "backup_activities": [
+      "Email follow-up"
+    ],
+    "adjustments": "Reschedule within 1 days if missed",
+    "metrics": "Next steps, Progress notes",
+    "required_equipment": [],
+    "required_specialists": [
+      "Yoga Instructor"
+    ],
+    "required_allied_health": [
+      "Dietitian"
+    ]
+  },
+  {
+    "id": 57,
+    "activity_type": "Consultation",
+    "description": "Nutrition Routine #57",
+    "frequency": "once a month",
+    "details": "Discuss progress and next steps",
+    "facilitator": "Yoga Instructor",
+    "location": "Clinic",
+    "remote_possible": false,
+    "prep_needed": "Questions prepared",
+    "backup_activities": [
+      "Text message update"
+    ],
+    "adjustments": "Reschedule within 2 days if missed",
+    "metrics": "Progress notes, Next steps",
+    "required_equipment": [],
+    "required_specialists": [
+      "Physical Therapist"
+    ],
+    "required_allied_health": [
+      "Dietitian"
+    ]
+  },
+  {
+    "id": 58,
+    "activity_type": "Consultation",
+    "description": "Therapy Check #58",
+    "frequency": "3 times a week",
+    "details": "Discuss progress and next steps",
+    "facilitator": "General Practitioner",
+    "location": "Spa Center",
+    "remote_possible": true,
+    "prep_needed": "Questions prepared",
+    "backup_activities": [
+      "Phone consultation"
+    ],
+    "adjustments": "Reschedule within 1 days if missed",
+    "metrics": "Next steps, Progress notes",
+    "required_equipment": [],
+    "required_specialists": [
+      "Physical Therapist"
+    ],
+    "required_allied_health": [
+      "Speech Therapist"
+    ]
+  },
+  {
+    "id": 59,
+    "activity_type": "Fitness routine/exercise",
+    "description": "Morning Plan #59",
+    "frequency": "3 times a week",
+    "details": "Maintain HR between 105 bpm",
+    "facilitator": "Health Coach",
+    "location": "Virtual",
+    "remote_possible": false,
+    "prep_needed": "Water bottle",
+    "backup_activities": [
+      "Bodyweight exercises",
+      "Walking"
+    ],
+    "adjustments": "Reschedule within 3 days if missed",
+    "metrics": "Heart rate, Duration",
+    "required_equipment": [],
+    "required_specialists": [
+      "Nutritionist"
+    ],
+    "required_allied_health": [
+      "Dietitian"
+    ]
+  },
+  {
+    "id": 60,
+    "activity_type": "Therapy",
+    "description": "Physical Check #60",
+    "frequency": "twice a week",
+    "details": "Session duration: 35 minutes",
+    "facilitator": "General Practitioner",
+    "location": "Clinic",
+    "remote_possible": true,
+    "prep_needed": "Towels",
+    "backup_activities": [
+      "Self-massage routine",
+      "Stretching routine"
+    ],
+    "adjustments": "Reschedule within 2 days if missed",
+    "metrics": "Perceived exertion, Recovery rate",
+    "required_equipment": [
+      "Sauna"
+    ],
+    "required_specialists": [
+      "Health Coach"
+    ],
+    "required_allied_health": [
+      "Occupational Therapist"
+    ]
+  },
+  {
+    "id": 61,
+    "activity_type": "Therapy",
+    "description": "Sauna Check #61",
+    "frequency": "once a month",
+    "details": "Session duration: 20 minutes",
+    "facilitator": "Nutritionist",
+    "location": "Virtual",
+    "remote_possible": false,
+    "prep_needed": "Towels",
+    "backup_activities": [
+      "Guided meditation session",
+      "Stretching routine"
+    ],
+    "adjustments": "Reschedule within 2 days if missed",
+    "metrics": "Perceived exertion, Recovery rate",
+    "required_equipment": [
+      "Sauna"
+    ],
+    "required_specialists": [
+      "Yoga Instructor"
+    ],
+    "required_allied_health": []
+  },
+  {
+    "id": 62,
+    "activity_type": "Consultation",
+    "description": "Medication Check #62",
+    "frequency": "twice a month",
+    "details": "Discuss progress and next steps",
+    "facilitator": "Yoga Instructor",
+    "location": "Rehabilitation Center",
+    "remote_possible": false,
+    "prep_needed": "Questions prepared",
+    "backup_activities": [
+      "Text message update",
+      "Phone consultation"
+    ],
+    "adjustments": "Reschedule within 2 days if missed",
+    "metrics": "Progress notes, Next steps",
+    "required_equipment": [],
+    "required_specialists": [
+      "Nutritionist"
+    ],
+    "required_allied_health": []
+  },
+  {
+    "id": 63,
+    "activity_type": "Consultation",
+    "description": "Nutrition Routine #63",
+    "frequency": "3 times a week",
+    "details": "Discuss progress and next steps",
+    "facilitator": "Health Coach",
+    "location": "Virtual",
+    "remote_possible": true,
+    "prep_needed": "Questions prepared",
+    "backup_activities": [
+      "Text message update"
+    ],
+    "adjustments": "Reschedule within 2 days if missed",
+    "metrics": "Next steps, Progress notes",
+    "required_equipment": [],
+    "required_specialists": [
+      "Physical Therapist"
+    ],
+    "required_allied_health": [
+      "Occupational Therapist"
+    ]
+  },
+  {
+    "id": 64,
+    "activity_type": "Consultation",
+    "description": "Therapy Session #64",
+    "frequency": "twice a month",
+    "details": "Discuss progress and next steps",
+    "facilitator": "Nutritionist",
+    "location": "Clinic",
+    "remote_possible": false,
+    "prep_needed": "Questions prepared",
+    "backup_activities": [
+      "Email follow-up",
+      "Text message update"
+    ],
+    "adjustments": "Reschedule within 3 days if missed",
+    "metrics": "Progress notes, Next steps",
+    "required_equipment": [],
+    "required_specialists": [
+      "Physical Therapist"
+    ],
+    "required_allied_health": []
+  },
+  {
+    "id": 65,
+    "activity_type": "Consultation",
+    "description": "Therapy Routine #65",
+    "frequency": "daily",
+    "details": "Discuss progress and next steps",
+    "facilitator": "General Practitioner",
+    "location": "Local Park",
+    "remote_possible": true,
+    "prep_needed": "Questions prepared",
+    "backup_activities": [
+      "Phone consultation",
+      "Email follow-up"
+    ],
+    "adjustments": "Reschedule within 2 days if missed",
+    "metrics": "Progress notes, Next steps",
+    "required_equipment": [],
+    "required_specialists": [
+      "Yoga Instructor"
+    ],
+    "required_allied_health": []
+  },
+  {
+    "id": 66,
+    "activity_type": "Therapy",
+    "description": "Ice Bath Session #66",
+    "frequency": "daily",
+    "details": "Session duration: 23 minutes",
+    "facilitator": "Nutritionist",
+    "location": "Home",
+    "remote_possible": false,
+    "prep_needed": "Water",
+    "backup_activities": [
+      "Guided meditation session"
+    ],
+    "adjustments": "Reschedule within 2 days if missed",
+    "metrics": "Perceived exertion, Recovery rate",
+    "required_equipment": [
+      "Sauna"
+    ],
+    "required_specialists": [
+      "Health Coach"
+    ],
+    "required_allied_health": []
+  },
+  {
+    "id": 67,
+    "activity_type": "Food consumption",
+    "description": "Breakfast Routine #67",
+    "frequency": "once a month",
+    "details": "Ensure vitamins intake",
+    "facilitator": "Personal Trainer",
+    "location": "Local Park",
+    "remote_possible": true,
+    "prep_needed": "Supplements ready",
+    "backup_activities": [
+      "Nutritional smoothie"
+    ],
+    "adjustments": "Reschedule within 1 days if missed",
+    "metrics": "Macronutrients, Calories",
+    "required_equipment": [],
+    "required_specialists": [
+      "Yoga Instructor"
+    ],
+    "required_allied_health": [
+      "Dietitian"
+    ]
+  },
+  {
+    "id": 68,
+    "activity_type": "Consultation",
+    "description": "Nutrition Plan #68",
+    "frequency": "twice a month",
+    "details": "Discuss progress and next steps",
+    "facilitator": "Personal Trainer",
+    "location": "Home",
+    "remote_possible": false,
+    "prep_needed": "Questions prepared",
+    "backup_activities": [
+      "Email follow-up",
+      "Text message update"
+    ],
+    "adjustments": "Reschedule within 1 days if missed",
+    "metrics": "Progress notes, Next steps",
+    "required_equipment": [],
+    "required_specialists": [
+      "Physical Therapist"
+    ],
+    "required_allied_health": []
+  },
+  {
+    "id": 69,
+    "activity_type": "Fitness routine/exercise",
+    "description": "Cardio Session #69",
+    "frequency": "once a week",
+    "details": "Maintain HR between 150 bpm",
+    "facilitator": "Nutritionist",
+    "location": "Virtual",
+    "remote_possible": true,
+    "prep_needed": "Water bottle",
+    "backup_activities": [
+      "Bodyweight exercises",
+      "Walking"
+    ],
+    "adjustments": "Reschedule within 3 days if missed",
+    "metrics": "Heart rate, Duration",
+    "required_equipment": [],
+    "required_specialists": [
+      "Therapy Specialist"
+    ],
+    "required_allied_health": []
+  },
+  {
+    "id": 70,
+    "activity_type": "Consultation",
+    "description": "Therapy Plan #70",
+    "frequency": "twice a month",
+    "details": "Discuss progress and next steps",
+    "facilitator": "Physical Therapist",
+    "location": "Clinic",
+    "remote_possible": true,
+    "prep_needed": "Questions prepared",
+    "backup_activities": [
+      "Email follow-up"
+    ],
+    "adjustments": "Reschedule within 3 days if missed",
+    "metrics": "Progress notes, Next steps",
+    "required_equipment": [],
+    "required_specialists": [
+      "Health Coach"
+    ],
+    "required_allied_health": []
+  },
+  {
+    "id": 71,
+    "activity_type": "Food consumption",
+    "description": "Snack Session #71",
+    "frequency": "daily",
+    "details": "Ensure fiber intake",
+    "facilitator": "Health Coach",
+    "location": "Home",
+    "remote_possible": false,
+    "prep_needed": "Supplements ready",
+    "backup_activities": [
+      "Nutritional smoothie",
+      "Pre-packaged healthy meal"
+    ],
+    "adjustments": "Reschedule within 3 days if missed",
+    "metrics": "Macronutrients, Calories",
+    "required_equipment": [],
+    "required_specialists": [
+      "Health Coach"
+    ],
+    "required_allied_health": []
+  },
+  {
+    "id": 72,
+    "activity_type": "Consultation",
+    "description": "Medication Session #72",
+    "frequency": "twice a month",
+    "details": "Discuss progress and next steps",
+    "facilitator": "Therapy Specialist",
+    "location": "Clinic",
+    "remote_possible": false,
+    "prep_needed": "Questions prepared",
+    "backup_activities": [
+      "Phone consultation",
+      "Text message update"
+    ],
+    "adjustments": "Reschedule within 3 days if missed",
+    "metrics": "Next steps, Progress notes",
+    "required_equipment": [],
+    "required_specialists": [
+      "Physical Therapist"
+    ],
+    "required_allied_health": [
+      "Physiotherapist"
+    ]
+  },
+  {
+    "id": 73,
+    "activity_type": "Food consumption",
+    "description": "Lunch Check #73",
+    "frequency": "once a month",
+    "details": "Ensure protein intake",
+    "facilitator": "Yoga Instructor",
+    "location": "Clinic",
+    "remote_possible": false,
+    "prep_needed": "Supplements ready",
+    "backup_activities": [
+      "Meal replacement shake"
+    ],
+    "adjustments": "Reschedule within 1 days if missed",
+    "metrics": "Macronutrients, Calories",
+    "required_equipment": [],
+    "required_specialists": [
+      "General Practitioner"
+    ],
+    "required_allied_health": []
+  },
+  {
+    "id": 74,
+    "activity_type": "Medication consumption",
+    "description": "Prescription Routine #74",
+    "frequency": "twice a week",
+    "details": "Take 2 tablet(s)",
+    "facilitator": "Health Coach",
+    "location": "Home",
+    "remote_possible": true,
+    "prep_needed": "Pill organizer filled",
+    "backup_activities": [
+      "Liquid alternative"
+    ],
+    "adjustments": "Reschedule within 2 days if missed",
+    "metrics": "Timing, Dosage",
+    "required_equipment": [],
+    "required_specialists": [
+      "Yoga Instructor"
+    ],
+    "required_allied_health": []
+  },
+  {
+    "id": 75,
+    "activity_type": "Therapy",
+    "description": "Respiratory Check #75",
+    "frequency": "twice a week",
+    "details": "Session duration: 50 minutes",
+    "facilitator": "Nutritionist",
+    "location": "Gym",
+    "remote_possible": false,
+    "prep_needed": "Water",
+    "backup_activities": [
+      "Self-massage routine",
+      "Guided meditation session"
+    ],
+    "adjustments": "Reschedule within 2 days if missed",
+    "metrics": "Recovery rate, Perceived exertion",
+    "required_equipment": [],
+    "required_specialists": [
+      "Personal Trainer"
+    ],
+    "required_allied_health": []
+  },
+  {
+    "id": 76,
+    "activity_type": "Food consumption",
+    "description": "Lunch Routine #76",
+    "frequency": "daily",
+    "details": "Ensure vitamins intake",
+    "facilitator": "Health Coach",
+    "location": "Virtual",
+    "remote_possible": true,
+    "prep_needed": "Supplements ready",
+    "backup_activities": [
+      "Pre-packaged healthy meal"
+    ],
+    "adjustments": "Reschedule within 2 days if missed",
+    "metrics": "Calories, Macronutrients",
+    "required_equipment": [],
+    "required_specialists": [
+      "Personal Trainer"
+    ],
+    "required_allied_health": []
+  },
+  {
+    "id": 77,
+    "activity_type": "Food consumption",
+    "description": "Supplement Plan #77",
+    "frequency": "twice a week",
+    "details": "Ensure protein intake",
+    "facilitator": "Nutritionist",
+    "location": "Spa Center",
+    "remote_possible": false,
+    "prep_needed": "Meal prepped",
+    "backup_activities": [
+      "Pre-packaged healthy meal"
+    ],
+    "adjustments": "Reschedule within 1 days if missed",
+    "metrics": "Calories, Macronutrients",
+    "required_equipment": [],
+    "required_specialists": [
+      "Health Coach"
+    ],
+    "required_allied_health": []
+  },
+  {
+    "id": 78,
+    "activity_type": "Consultation",
+    "description": "Therapy Check #78",
+    "frequency": "once a month",
+    "details": "Discuss progress and next steps",
+    "facilitator": "Nutritionist",
+    "location": "Spa Center",
+    "remote_possible": true,
+    "prep_needed": "Questions prepared",
+    "backup_activities": [
+      "Text message update"
+    ],
+    "adjustments": "Reschedule within 1 days if missed",
+    "metrics": "Next steps, Progress notes",
+    "required_equipment": [],
+    "required_specialists": [
+      "Personal Trainer"
+    ],
+    "required_allied_health": [
+      "Occupational Therapist"
+    ]
+  },
+  {
+    "id": 79,
+    "activity_type": "Consultation",
+    "description": "Progress Check #79",
+    "frequency": "3 times a week",
+    "details": "Discuss progress and next steps",
+    "facilitator": "General Practitioner",
+    "location": "Rehabilitation Center",
+    "remote_possible": false,
+    "prep_needed": "Questions prepared",
+    "backup_activities": [
+      "Text message update"
+    ],
+    "adjustments": "Reschedule within 1 days if missed",
+    "metrics": "Next steps, Progress notes",
+    "required_equipment": [],
+    "required_specialists": [
+      "Health Coach"
+    ],
+    "required_allied_health": [
+      "Occupational Therapist"
+    ]
+  },
+  {
+    "id": 80,
+    "activity_type": "Food consumption",
+    "description": "Snack Check #80",
+    "frequency": "once a month",
+    "details": "Ensure fiber intake",
+    "facilitator": "Therapy Specialist",
+    "location": "Local Park",
+    "remote_possible": true,
+    "prep_needed": "Supplements ready",
+    "backup_activities": [
+      "Pre-packaged healthy meal"
+    ],
+    "adjustments": "Reschedule within 1 days if missed",
+    "metrics": "Macronutrients, Calories",
+    "required_equipment": [],
+    "required_specialists": [
+      "Physical Therapist"
+    ],
+    "required_allied_health": [
+      "Occupational Therapist"
+    ]
+  },
+  {
+    "id": 81,
+    "activity_type": "Fitness routine/exercise",
+    "description": "Recovery Check #81",
+    "frequency": "once a month",
+    "details": "Maintain HR between 106 bpm",
+    "facilitator": "Yoga Instructor",
+    "location": "Rehabilitation Center",
+    "remote_possible": false,
+    "prep_needed": "Proper attire",
+    "backup_activities": [
+      "Bodyweight exercises"
+    ],
+    "adjustments": "Reschedule within 2 days if missed",
+    "metrics": "Duration, Heart rate",
+    "required_equipment": [],
+    "required_specialists": [
+      "Health Coach"
+    ],
+    "required_allied_health": []
+  },
+  {
+    "id": 82,
+    "activity_type": "Food consumption",
+    "description": "Snack Check #82",
+    "frequency": "once a week",
+    "details": "Ensure protein intake",
+    "facilitator": "General Practitioner",
+    "location": "Rehabilitation Center",
+    "remote_possible": false,
+    "prep_needed": "Supplements ready",
+    "backup_activities": [
+      "Nutritional smoothie",
+      "Meal replacement shake"
+    ],
+    "adjustments": "Reschedule within 2 days if missed",
+    "metrics": "Macronutrients, Calories",
+    "required_equipment": [],
+    "required_specialists": [
+      "Nutritionist"
+    ],
+    "required_allied_health": [
+      "Dietitian"
+    ]
+  },
+  {
+    "id": 83,
+    "activity_type": "Food consumption",
+    "description": "Supplement Check #83",
+    "frequency": "3 times a week",
+    "details": "Ensure protein intake",
+    "facilitator": "Personal Trainer",
+    "location": "Virtual",
+    "remote_possible": true,
+    "prep_needed": "Meal prepped",
+    "backup_activities": [
+      "Nutritional smoothie",
+      "Pre-packaged healthy meal"
+    ],
+    "adjustments": "Reschedule within 1 days if missed",
+    "metrics": "Macronutrients, Calories",
+    "required_equipment": [],
+    "required_specialists": [
+      "Physical Therapist"
+    ],
+    "required_allied_health": []
+  },
+  {
+    "id": 84,
+    "activity_type": "Fitness routine/exercise",
+    "description": "Cardio Session #84",
+    "frequency": "daily",
+    "details": "Maintain HR between 101 bpm",
+    "facilitator": "Therapy Specialist",
+    "location": "Rehabilitation Center",
+    "remote_possible": true,
+    "prep_needed": "Proper attire",
+    "backup_activities": [
+      "Walking"
+    ],
+    "adjustments": "Reschedule within 2 days if missed",
+    "metrics": "Duration, Heart rate",
+    "required_equipment": [],
+    "required_specialists": [
+      "Yoga Instructor"
+    ],
+    "required_allied_health": []
+  },
+  {
+    "id": 85,
+    "activity_type": "Therapy",
+    "description": "Physical Plan #85",
+    "frequency": "daily",
+    "details": "Session duration: 35 minutes",
+    "facilitator": "Personal Trainer",
+    "location": "Clinic",
+    "remote_possible": false,
+    "prep_needed": "Water",
+    "backup_activities": [
+      "Stretching routine",
+      "Guided meditation session"
+    ],
+    "adjustments": "Reschedule within 1 days if missed",
+    "metrics": "Recovery rate, Perceived exertion",
+    "required_equipment": [
+      "Ice Bath Tub"
+    ],
+    "required_specialists": [
+      "Yoga Instructor"
+    ],
+    "required_allied_health": [
+      "Physiotherapist"
+    ]
+  },
+  {
+    "id": 86,
+    "activity_type": "Consultation",
+    "description": "Nutrition Check #86",
+    "frequency": "twice a month",
+    "details": "Discuss progress and next steps",
+    "facilitator": "Physical Therapist",
+    "location": "Spa Center",
+    "remote_possible": true,
+    "prep_needed": "Questions prepared",
+    "backup_activities": [
+      "Phone consultation"
+    ],
+    "adjustments": "Reschedule within 3 days if missed",
+    "metrics": "Next steps, Progress notes",
+    "required_equipment": [],
+    "required_specialists": [
+      "General Practitioner"
+    ],
+    "required_allied_health": []
+  },
+  {
+    "id": 87,
+    "activity_type": "Fitness routine/exercise",
+    "description": "Strength Check #87",
+    "frequency": "twice a month",
+    "details": "Maintain HR between 113 bpm",
+    "facilitator": "Nutritionist",
+    "location": "Spa Center",
+    "remote_possible": true,
+    "prep_needed": "Water bottle",
+    "backup_activities": [
+      "Bodyweight exercises"
+    ],
+    "adjustments": "Reschedule within 2 days if missed",
+    "metrics": "Duration, Heart rate",
+    "required_equipment": [],
+    "required_specialists": [
+      "Health Coach"
+    ],
+    "required_allied_health": [
+      "Occupational Therapist"
+    ]
+  },
+  {
+    "id": 88,
+    "activity_type": "Medication consumption",
+    "description": "Vitamin Plan #88",
+    "frequency": "once a month",
+    "details": "Take 2 tablet(s)",
+    "facilitator": "Health Coach",
+    "location": "Home",
+    "remote_possible": true,
+    "prep_needed": "Pill organizer filled",
+    "backup_activities": [
+      "Delayed administration with doctor's approval"
+    ],
+    "adjustments": "Reschedule within 2 days if missed",
+    "metrics": "Dosage, Timing",
+    "required_equipment": [],
+    "required_specialists": [
+      "Yoga Instructor"
+    ],
+    "required_allied_health": [
+      "Physiotherapist"
+    ]
+  },
+  {
+    "id": 89,
+    "activity_type": "Fitness routine/exercise",
+    "description": "Cardio Session #89",
+    "frequency": "twice a week",
+    "details": "Maintain HR between 110 bpm",
+    "facilitator": "Therapy Specialist",
+    "location": "Virtual",
+    "remote_possible": true,
+    "prep_needed": "Water bottle",
+    "backup_activities": [
+      "Bodyweight exercises",
+      "Walking"
+    ],
+    "adjustments": "Reschedule within 2 days if missed",
+    "metrics": "Duration, Heart rate",
+    "required_equipment": [],
+    "required_specialists": [
+      "Personal Trainer"
+    ],
+    "required_allied_health": []
+  },
+  {
+    "id": 90,
+    "activity_type": "Therapy",
+    "description": "Respiratory Session #90",
+    "frequency": "once a week",
+    "details": "Session duration: 57 minutes",
+    "facilitator": "Physical Therapist",
+    "location": "Local Park",
+    "remote_possible": false,
+    "prep_needed": "Water",
+    "backup_activities": [
+      "Guided meditation session"
+    ],
+    "adjustments": "Reschedule within 3 days if missed",
+    "metrics": "Recovery rate, Perceived exertion",
+    "required_equipment": [
+      "Ice Bath Tub"
+    ],
+    "required_specialists": [
+      "Personal Trainer"
+    ],
+    "required_allied_health": []
+  },
+  {
+    "id": 91,
+    "activity_type": "Food consumption",
+    "description": "Lunch Check #91",
+    "frequency": "twice a month",
+    "details": "Ensure fiber intake",
+    "facilitator": "Nutritionist",
+    "location": "Clinic",
+    "remote_possible": true,
+    "prep_needed": "Supplements ready",
+    "backup_activities": [
+      "Pre-packaged healthy meal",
+      "Nutritional smoothie"
+    ],
+    "adjustments": "Reschedule within 1 days if missed",
+    "metrics": "Macronutrients, Calories",
+    "required_equipment": [],
+    "required_specialists": [
+      "Physical Therapist"
+    ],
+    "required_allied_health": [
+      "Physiotherapist"
+    ]
+  },
+  {
+    "id": 92,
+    "activity_type": "Therapy",
+    "description": "Physical Check #92",
+    "frequency": "twice a month",
+    "details": "Session duration: 44 minutes",
+    "facilitator": "Therapy Specialist",
+    "location": "Virtual",
+    "remote_possible": false,
+    "prep_needed": "Water",
+    "backup_activities": [
+      "Stretching routine"
+    ],
+    "adjustments": "Reschedule within 3 days if missed",
+    "metrics": "Recovery rate, Perceived exertion",
+    "required_equipment": [],
+    "required_specialists": [
+      "Health Coach"
+    ],
+    "required_allied_health": []
+  },
+  {
+    "id": 93,
+    "activity_type": "Therapy",
+    "description": "Physical Check #93",
+    "frequency": "3 times a week",
+    "details": "Session duration: 39 minutes",
+    "facilitator": "Therapy Specialist",
+    "location": "Virtual",
+    "remote_possible": true,
+    "prep_needed": "Towels",
+    "backup_activities": [
+      "Stretching routine"
+    ],
+    "adjustments": "Reschedule within 1 days if missed",
+    "metrics": "Recovery rate, Perceived exertion",
+    "required_equipment": [],
+    "required_specialists": [
+      "Yoga Instructor"
+    ],
+    "required_allied_health": [
+      "Physiotherapist"
+    ]
+  },
+  {
+    "id": 94,
+    "activity_type": "Medication consumption",
+    "description": "Prescription Routine #94",
+    "frequency": "daily",
+    "details": "Take 1 tablet(s)",
+    "facilitator": "Physical Therapist",
+    "location": "Gym",
+    "remote_possible": false,
+    "prep_needed": "Pill organizer filled",
+    "backup_activities": [
+      "Liquid alternative",
+      "Delayed administration with doctor's approval"
+    ],
+    "adjustments": "Reschedule within 2 days if missed",
+    "metrics": "Dosage, Timing",
+    "required_equipment": [],
+    "required_specialists": [
+      "Yoga Instructor"
+    ],
+    "required_allied_health": []
+  },
+  {
+    "id": 95,
+    "activity_type": "Therapy",
+    "description": "Occupational Check #95",
+    "frequency": "daily",
+    "details": "Session duration: 38 minutes",
+    "facilitator": "Health Coach",
+    "location": "Rehabilitation Center",
+    "remote_possible": true,
+    "prep_needed": "Water",
+    "backup_activities": [
+      "Stretching routine",
+      "Guided meditation session"
+    ],
+    "adjustments": "Reschedule within 3 days if missed",
+    "metrics": "Recovery rate, Perceived exertion",
+    "required_equipment": [
+      "Ice Bath Tub"
+    ],
+    "required_specialists": [
+      "Yoga Instructor"
+    ],
+    "required_allied_health": [
+      "Physiotherapist"
+    ]
+  },
+  {
+    "id": 96,
+    "activity_type": "Therapy",
+    "description": "Sauna Session #96",
+    "frequency": "twice a week",
+    "details": "Session duration: 54 minutes",
+    "facilitator": "Physical Therapist",
+    "location": "Spa Center",
+    "remote_possible": false,
+    "prep_needed": "Water",
+    "backup_activities": [
+      "Stretching routine"
+    ],
+    "adjustments": "Reschedule within 1 days if missed",
+    "metrics": "Recovery rate, Perceived exertion",
+    "required_equipment": [
+      "Sauna"
+    ],
+    "required_specialists": [
+      "Physical Therapist"
+    ],
+    "required_allied_health": []
+  },
+  {
+    "id": 97,
+    "activity_type": "Consultation",
+    "description": "Nutrition Routine #97",
+    "frequency": "once a month",
+    "details": "Discuss progress and next steps",
+    "facilitator": "General Practitioner",
+    "location": "Local Park",
+    "remote_possible": true,
+    "prep_needed": "Questions prepared",
+    "backup_activities": [
+      "Email follow-up",
+      "Phone consultation"
+    ],
+    "adjustments": "Reschedule within 3 days if missed",
+    "metrics": "Next steps, Progress notes",
+    "required_equipment": [],
+    "required_specialists": [
+      "Nutritionist"
+    ],
+    "required_allied_health": [
+      "Speech Therapist"
+    ]
+  },
+  {
+    "id": 98,
+    "activity_type": "Food consumption",
+    "description": "Snack Routine #98",
+    "frequency": "3 times a week",
+    "details": "Ensure vitamins intake",
+    "facilitator": "General Practitioner",
+    "location": "Gym",
+    "remote_possible": true,
+    "prep_needed": "Meal prepped",
+    "backup_activities": [
+      "Nutritional smoothie"
+    ],
+    "adjustments": "Reschedule within 2 days if missed",
+    "metrics": "Calories, Macronutrients",
+    "required_equipment": [],
+    "required_specialists": [
+      "Therapy Specialist"
+    ],
+    "required_allied_health": [
+      "Occupational Therapist"
+    ]
+  },
+  {
+    "id": 99,
+    "activity_type": "Consultation",
+    "description": "Medication Check #99",
+    "frequency": "once a week",
+    "details": "Discuss progress and next steps",
+    "facilitator": "Therapy Specialist",
+    "location": "Home",
+    "remote_possible": false,
+    "prep_needed": "Questions prepared",
+    "backup_activities": [
+      "Email follow-up"
+    ],
+    "adjustments": "Reschedule within 3 days if missed",
+    "metrics": "Next steps, Progress notes",
+    "required_equipment": [],
+    "required_specialists": [
+      "Therapy Specialist"
+    ],
+    "required_allied_health": []
+  },
+  {
+    "id": 100,
+    "activity_type": "Food consumption",
+    "description": "Lunch Session #100",
+    "frequency": "daily",
+    "details": "Ensure vitamins intake",
+    "facilitator": "Physical Therapist",
+    "location": "Local Park",
+    "remote_possible": true,
+    "prep_needed": "Meal prepped",
+    "backup_activities": [
+      "Pre-packaged healthy meal",
+      "Nutritional smoothie"
+    ],
+    "adjustments": "Reschedule within 1 days if missed",
+    "metrics": "Macronutrients, Calories",
+    "required_equipment": [],
+    "required_specialists": [
+      "General Practitioner"
+    ],
+    "required_allied_health": []
+  },
+  {
+    "id": 101,
+    "activity_type": "Therapy",
+    "description": "Occupational Check #101",
+    "frequency": "3 times a week",
+    "details": "Session duration: 17 minutes",
+    "facilitator": "General Practitioner",
+    "location": "Local Park",
+    "remote_possible": false,
+    "prep_needed": "Water",
+    "backup_activities": [
+      "Guided meditation session",
+      "Stretching routine"
+    ],
+    "adjustments": "Reschedule within 2 days if missed",
+    "metrics": "Recovery rate, Perceived exertion",
+    "required_equipment": [],
+    "required_specialists": [
+      "General Practitioner"
+    ],
+    "required_allied_health": [
+      "Speech Therapist"
+    ]
+  },
+  {
+    "id": 102,
+    "activity_type": "Fitness routine/exercise",
+    "description": "Evening Session #102",
+    "frequency": "once a week",
+    "details": "Maintain HR between 110 bpm",
+    "facilitator": "Nutritionist",
+    "location": "Clinic",
+    "remote_possible": false,
+    "prep_needed": "Water bottle",
+    "backup_activities": [
+      "Walking",
+      "Bodyweight exercises"
+    ],
+    "adjustments": "Reschedule within 2 days if missed",
+    "metrics": "Duration, Heart rate",
+    "required_equipment": [],
+    "required_specialists": [
+      "General Practitioner"
+    ],
+    "required_allied_health": [
+      "Dietitian"
+    ]
+  },
+  {
+    "id": 103,
+    "activity_type": "Consultation",
+    "description": "Nutrition Session #103",
+    "frequency": "once a month",
+    "details": "Discuss progress and next steps",
+    "facilitator": "General Practitioner",
+    "location": "Rehabilitation Center",
+    "remote_possible": true,
+    "prep_needed": "Questions prepared",
+    "backup_activities": [
+      "Text message update"
+    ],
+    "adjustments": "Reschedule within 1 days if missed",
+    "metrics": "Next steps, Progress notes",
+    "required_equipment": [],
+    "required_specialists": [
+      "Health Coach"
+    ],
+    "required_allied_health": [
+      "Dietitian"
+    ]
+  },
+  {
+    "id": 104,
+    "activity_type": "Medication consumption",
+    "description": "Vitamin Plan #104",
+    "frequency": "once a week",
+    "details": "Take 2 tablet(s)",
+    "facilitator": "Yoga Instructor",
+    "location": "Rehabilitation Center",
+    "remote_possible": true,
+    "prep_needed": "Pill organizer filled",
+    "backup_activities": [
+      "Delayed administration with doctor's approval",
+      "Alternative dosage form (e.g., chewable)"
+    ],
+    "adjustments": "Reschedule within 3 days if missed",
+    "metrics": "Timing, Dosage",
+    "required_equipment": [],
+    "required_specialists": [
+      "Personal Trainer"
+    ],
+    "required_allied_health": []
+  },
+  {
+    "id": 105,
+    "activity_type": "Consultation",
+    "description": "Progress Session #105",
+    "frequency": "twice a week",
+    "details": "Discuss progress and next steps",
+    "facilitator": "Nutritionist",
+    "location": "Virtual",
+    "remote_possible": true,
+    "prep_needed": "Questions prepared",
+    "backup_activities": [
+      "Email follow-up"
+    ],
+    "adjustments": "Reschedule within 1 days if missed",
+    "metrics": "Progress notes, Next steps",
+    "required_equipment": [],
+    "required_specialists": [
+      "Personal Trainer"
+    ],
+    "required_allied_health": []
+  },
+  {
+    "id": 106,
+    "activity_type": "Fitness routine/exercise",
+    "description": "Cardio Check #106",
+    "frequency": "twice a month",
+    "details": "Maintain HR between 124 bpm",
+    "facilitator": "Personal Trainer",
+    "location": "Clinic",
+    "remote_possible": true,
+    "prep_needed": "Proper attire",
+    "backup_activities": [
+      "Walking",
+      "Bodyweight exercises"
+    ],
+    "adjustments": "Reschedule within 3 days if missed",
+    "metrics": "Duration, Heart rate",
+    "required_equipment": [],
+    "required_specialists": [
+      "Health Coach"
+    ],
+    "required_allied_health": [
+      "Occupational Therapist"
+    ]
+  },
+  {
+    "id": 107,
+    "activity_type": "Therapy",
+    "description": "Respiratory Session #107",
+    "frequency": "twice a week",
+    "details": "Session duration: 36 minutes",
+    "facilitator": "Nutritionist",
+    "location": "Home",
+    "remote_possible": false,
+    "prep_needed": "Water",
+    "backup_activities": [
+      "Guided meditation session"
+    ],
+    "adjustments": "Reschedule within 3 days if missed",
+    "metrics": "Perceived exertion, Recovery rate",
+    "required_equipment": [],
+    "required_specialists": [
+      "Nutritionist"
+    ],
+    "required_allied_health": []
+  },
+  {
+    "id": 108,
+    "activity_type": "Food consumption",
+    "description": "Lunch Check #108",
+    "frequency": "twice a week",
+    "details": "Ensure vitamins intake",
+    "facilitator": "General Practitioner",
+    "location": "Rehabilitation Center",
+    "remote_possible": false,
+    "prep_needed": "Meal prepped",
+    "backup_activities": [
+      "Nutritional smoothie"
+    ],
+    "adjustments": "Reschedule within 3 days if missed",
+    "metrics": "Calories, Macronutrients",
+    "required_equipment": [],
+    "required_specialists": [
+      "Health Coach"
+    ],
+    "required_allied_health": [
+      "Speech Therapist"
+    ]
+  },
+  {
+    "id": 109,
+    "activity_type": "Therapy",
+    "description": "Ice Bath Check #109",
+    "frequency": "3 times a week",
+    "details": "Session duration: 19 minutes",
+    "facilitator": "Therapy Specialist",
+    "location": "Rehabilitation Center",
+    "remote_possible": true,
+    "prep_needed": "Towels",
+    "backup_activities": [
+      "Stretching routine",
+      "Self-massage routine"
+    ],
+    "adjustments": "Reschedule within 2 days if missed",
+    "metrics": "Recovery rate, Perceived exertion",
+    "required_equipment": [],
+    "required_specialists": [
+      "Personal Trainer"
+    ],
+    "required_allied_health": [
+      "Dietitian"
+    ]
+  },
+  {
+    "id": 110,
+    "activity_type": "Consultation",
+    "description": "Medication Routine #110",
+    "frequency": "3 times a week",
+    "details": "Discuss progress and next steps",
+    "facilitator": "Therapy Specialist",
+    "location": "Gym",
+    "remote_possible": true,
+    "prep_needed": "Questions prepared",
+    "backup_activities": [
+      "Email follow-up",
+      "Text message update"
+    ],
+    "adjustments": "Reschedule within 2 days if missed",
+    "metrics": "Next steps, Progress notes",
+    "required_equipment": [],
+    "required_specialists": [
+      "Nutritionist"
+    ],
+    "required_allied_health": [
+      "Occupational Therapist"
+    ]
+  },
+  {
+    "id": 111,
+    "activity_type": "Food consumption",
+    "description": "Breakfast Routine #111",
+    "frequency": "twice a month",
+    "details": "Ensure vitamins intake",
+    "facilitator": "Health Coach",
+    "location": "Rehabilitation Center",
+    "remote_possible": false,
+    "prep_needed": "Meal prepped",
+    "backup_activities": [
+      "Meal replacement shake"
+    ],
+    "adjustments": "Reschedule within 1 days if missed",
+    "metrics": "Calories, Macronutrients",
+    "required_equipment": [],
+    "required_specialists": [
+      "Yoga Instructor"
+    ],
+    "required_allied_health": [
+      "Dietitian"
+    ]
+  },
+  {
+    "id": 112,
+    "activity_type": "Medication consumption",
+    "description": "Dose Check #112",
+    "frequency": "3 times a week",
+    "details": "Take 1 tablet(s)",
+    "facilitator": "Personal Trainer",
+    "location": "Gym",
+    "remote_possible": true,
+    "prep_needed": "Pill organizer filled",
+    "backup_activities": [
+      "Delayed administration with doctor's approval"
+    ],
+    "adjustments": "Reschedule within 3 days if missed",
+    "metrics": "Dosage, Timing",
+    "required_equipment": [],
+    "required_specialists": [
+      "Personal Trainer"
+    ],
+    "required_allied_health": [
+      "Speech Therapist"
+    ]
+  },
+  {
+    "id": 113,
+    "activity_type": "Consultation",
+    "description": "Medication Routine #113",
+    "frequency": "3 times a week",
+    "details": "Discuss progress and next steps",
+    "facilitator": "Physical Therapist",
+    "location": "Virtual",
+    "remote_possible": false,
+    "prep_needed": "Questions prepared",
+    "backup_activities": [
+      "Phone consultation",
+      "Text message update"
+    ],
+    "adjustments": "Reschedule within 2 days if missed",
+    "metrics": "Next steps, Progress notes",
+    "required_equipment": [],
+    "required_specialists": [
+      "Yoga Instructor"
+    ],
+    "required_allied_health": []
+  },
+  {
+    "id": 114,
+    "activity_type": "Medication consumption",
+    "description": "Prescription Session #114",
+    "frequency": "once a month",
+    "details": "Take 3 tablet(s)",
+    "facilitator": "Therapy Specialist",
+    "location": "Gym",
+    "remote_possible": true,
+    "prep_needed": "Pill organizer filled",
+    "backup_activities": [
+      "Alternative dosage form (e.g., chewable)",
+      "Liquid alternative"
+    ],
+    "adjustments": "Reschedule within 2 days if missed",
+    "metrics": "Timing, Dosage",
+    "required_equipment": [],
+    "required_specialists": [
+      "Physical Therapist"
+    ],
+    "required_allied_health": [
+      "Dietitian"
+    ]
+  },
+  {
+    "id": 115,
+    "activity_type": "Fitness routine/exercise",
+    "description": "Recovery Session #115",
+    "frequency": "once a week",
+    "details": "Maintain HR between 150 bpm",
+    "facilitator": "Nutritionist",
+    "location": "Gym",
+    "remote_possible": true,
+    "prep_needed": "Proper attire",
+    "backup_activities": [
+      "Bodyweight exercises",
+      "Walking"
+    ],
+    "adjustments": "Reschedule within 3 days if missed",
+    "metrics": "Duration, Heart rate",
+    "required_equipment": [],
+    "required_specialists": [
+      "Nutritionist"
+    ],
+    "required_allied_health": []
+  },
+  {
+    "id": 116,
+    "activity_type": "Fitness routine/exercise",
+    "description": "Cardio Check #116",
+    "frequency": "twice a week",
+    "details": "Maintain HR between 153 bpm",
+    "facilitator": "Yoga Instructor",
+    "location": "Virtual",
+    "remote_possible": true,
+    "prep_needed": "Proper attire",
+    "backup_activities": [
+      "Walking"
+    ],
+    "adjustments": "Reschedule within 3 days if missed",
+    "metrics": "Heart rate, Duration",
+    "required_equipment": [],
+    "required_specialists": [
+      "Personal Trainer"
+    ],
+    "required_allied_health": [
+      "Dietitian"
+    ]
+  },
+  {
+    "id": 117,
+    "activity_type": "Medication consumption",
+    "description": "Supplement Session #117",
+    "frequency": "3 times a week",
+    "details": "Take 3 tablet(s)",
+    "facilitator": "Physical Therapist",
+    "location": "Spa Center",
+    "remote_possible": true,
+    "prep_needed": "Pill organizer filled",
+    "backup_activities": [
+      "Alternative dosage form (e.g., chewable)",
+      "Liquid alternative"
+    ],
+    "adjustments": "Reschedule within 1 days if missed",
+    "metrics": "Timing, Dosage",
+    "required_equipment": [],
+    "required_specialists": [
+      "Yoga Instructor"
+    ],
+    "required_allied_health": []
+  },
+  {
+    "id": 118,
+    "activity_type": "Consultation",
+    "description": "Progress Session #118",
+    "frequency": "twice a week",
+    "details": "Discuss progress and next steps",
+    "facilitator": "Health Coach",
+    "location": "Home",
+    "remote_possible": true,
+    "prep_needed": "Questions prepared",
+    "backup_activities": [
+      "Email follow-up",
+      "Text message update"
+    ],
+    "adjustments": "Reschedule within 3 days if missed",
+    "metrics": "Progress notes, Next steps",
+    "required_equipment": [],
+    "required_specialists": [
+      "Yoga Instructor"
+    ],
+    "required_allied_health": [
+      "Dietitian"
+    ]
+  },
+  {
+    "id": 119,
+    "activity_type": "Medication consumption",
+    "description": "Dose Session #119",
+    "frequency": "once a month",
+    "details": "Take 3 tablet(s)",
+    "facilitator": "Personal Trainer",
+    "location": "Home",
+    "remote_possible": false,
+    "prep_needed": "Pill organizer filled",
+    "backup_activities": [
+      "Liquid alternative",
+      "Delayed administration with doctor's approval"
+    ],
+    "adjustments": "Reschedule within 1 days if missed",
+    "metrics": "Timing, Dosage",
+    "required_equipment": [],
+    "required_specialists": [
+      "Yoga Instructor"
+    ],
+    "required_allied_health": [
+      "Dietitian"
+    ]
+  },
+  {
+    "id": 120,
+    "activity_type": "Consultation",
+    "description": "Medication Plan #120",
+    "frequency": "twice a week",
+    "details": "Discuss progress and next steps",
+    "facilitator": "Health Coach",
+    "location": "Clinic",
+    "remote_possible": false,
+    "prep_needed": "Questions prepared",
+    "backup_activities": [
+      "Email follow-up"
+    ],
+    "adjustments": "Reschedule within 3 days if missed",
+    "metrics": "Progress notes, Next steps",
+    "required_equipment": [],
+    "required_specialists": [
+      "Yoga Instructor"
+    ],
+    "required_allied_health": [
+      "Occupational Therapist"
+    ]
+  },
+  {
+    "id": 121,
+    "activity_type": "Therapy",
+    "description": "Physical Check #121",
+    "frequency": "3 times a week",
+    "details": "Session duration: 53 minutes",
+    "facilitator": "Nutritionist",
+    "location": "Gym",
+    "remote_possible": true,
+    "prep_needed": "Towels",
+    "backup_activities": [
+      "Stretching routine",
+      "Guided meditation session"
+    ],
+    "adjustments": "Reschedule within 1 days if missed",
+    "metrics": "Recovery rate, Perceived exertion",
+    "required_equipment": [
+      "Ice Bath Tub"
+    ],
+    "required_specialists": [
+      "Health Coach"
+    ],
+    "required_allied_health": [
+      "Speech Therapist"
+    ]
+  },
+  {
+    "id": 122,
+    "activity_type": "Therapy",
+    "description": "Sauna Plan #122",
+    "frequency": "twice a month",
+    "details": "Session duration: 49 minutes",
+    "facilitator": "Personal Trainer",
+    "location": "Rehabilitation Center",
+    "remote_possible": true,
+    "prep_needed": "Towels",
+    "backup_activities": [
+      "Self-massage routine"
+    ],
+    "adjustments": "Reschedule within 3 days if missed",
+    "metrics": "Recovery rate, Perceived exertion",
+    "required_equipment": [],
+    "required_specialists": [
+      "Health Coach"
+    ],
+    "required_allied_health": [
+      "Dietitian"
+    ]
+  },
+  {
+    "id": 123,
+    "activity_type": "Therapy",
+    "description": "Sauna Session #123",
+    "frequency": "daily",
+    "details": "Session duration: 45 minutes",
+    "facilitator": "Therapy Specialist",
+    "location": "Local Park",
+    "remote_possible": false,
+    "prep_needed": "Water",
+    "backup_activities": [
+      "Guided meditation session",
+      "Stretching routine"
+    ],
+    "adjustments": "Reschedule within 2 days if missed",
+    "metrics": "Perceived exertion, Recovery rate",
+    "required_equipment": [],
+    "required_specialists": [
+      "Health Coach"
+    ],
+    "required_allied_health": []
+  },
+  {
+    "id": 124,
+    "activity_type": "Medication consumption",
+    "description": "Prescription Session #124",
+    "frequency": "once a month",
+    "details": "Take 1 tablet(s)",
+    "facilitator": "Therapy Specialist",
+    "location": "Spa Center",
+    "remote_possible": true,
+    "prep_needed": "Pill organizer filled",
+    "backup_activities": [
+      "Liquid alternative"
+    ],
+    "adjustments": "Reschedule within 2 days if missed",
+    "metrics": "Dosage, Timing",
+    "required_equipment": [],
+    "required_specialists": [
+      "Yoga Instructor"
+    ],
+    "required_allied_health": []
+  },
+  {
+    "id": 125,
+    "activity_type": "Consultation",
+    "description": "Progress Session #125",
+    "frequency": "once a week",
+    "details": "Discuss progress and next steps",
+    "facilitator": "Physical Therapist",
+    "location": "Clinic",
+    "remote_possible": true,
+    "prep_needed": "Questions prepared",
+    "backup_activities": [
+      "Phone consultation"
+    ],
+    "adjustments": "Reschedule within 3 days if missed",
+    "metrics": "Next steps, Progress notes",
+    "required_equipment": [],
+    "required_specialists": [
+      "Physical Therapist"
+    ],
+    "required_allied_health": []
+  },
+  {
+    "id": 126,
+    "activity_type": "Medication consumption",
+    "description": "Dose Routine #126",
+    "frequency": "twice a week",
+    "details": "Take 2 tablet(s)",
+    "facilitator": "General Practitioner",
+    "location": "Clinic",
+    "remote_possible": true,
+    "prep_needed": "Pill organizer filled",
+    "backup_activities": [
+      "Alternative dosage form (e.g., chewable)",
+      "Delayed administration with doctor's approval"
+    ],
+    "adjustments": "Reschedule within 1 days if missed",
+    "metrics": "Timing, Dosage",
+    "required_equipment": [],
+    "required_specialists": [
+      "Health Coach"
+    ],
+    "required_allied_health": [
+      "Speech Therapist"
+    ]
+  },
+  {
+    "id": 127,
+    "activity_type": "Consultation",
+    "description": "Therapy Session #127",
+    "frequency": "3 times a week",
+    "details": "Discuss progress and next steps",
+    "facilitator": "Nutritionist",
+    "location": "Spa Center",
+    "remote_possible": true,
+    "prep_needed": "Questions prepared",
+    "backup_activities": [
+      "Phone consultation",
+      "Email follow-up"
+    ],
+    "adjustments": "Reschedule within 2 days if missed",
+    "metrics": "Progress notes, Next steps",
+    "required_equipment": [],
+    "required_specialists": [
+      "Physical Therapist"
+    ],
+    "required_allied_health": []
+  },
+  {
+    "id": 128,
+    "activity_type": "Food consumption",
+    "description": "Snack Plan #128",
+    "frequency": "twice a week",
+    "details": "Ensure protein intake",
+    "facilitator": "Personal Trainer",
+    "location": "Spa Center",
+    "remote_possible": false,
+    "prep_needed": "Meal prepped",
+    "backup_activities": [
+      "Pre-packaged healthy meal",
+      "Meal replacement shake"
+    ],
+    "adjustments": "Reschedule within 3 days if missed",
+    "metrics": "Calories, Macronutrients",
+    "required_equipment": [],
+    "required_specialists": [
+      "Therapy Specialist"
+    ],
+    "required_allied_health": []
+  },
+  {
+    "id": 129,
+    "activity_type": "Consultation",
+    "description": "Medication Session #129",
+    "frequency": "once a month",
+    "details": "Discuss progress and next steps",
+    "facilitator": "General Practitioner",
+    "location": "Home",
+    "remote_possible": true,
+    "prep_needed": "Questions prepared",
+    "backup_activities": [
+      "Email follow-up"
+    ],
+    "adjustments": "Reschedule within 3 days if missed",
+    "metrics": "Progress notes, Next steps",
+    "required_equipment": [],
+    "required_specialists": [
+      "Health Coach"
+    ],
+    "required_allied_health": []
+  },
+  {
+    "id": 130,
+    "activity_type": "Food consumption",
+    "description": "Dinner Plan #130",
+    "frequency": "twice a month",
+    "details": "Ensure vitamins intake",
+    "facilitator": "Physical Therapist",
+    "location": "Clinic",
+    "remote_possible": true,
+    "prep_needed": "Supplements ready",
+    "backup_activities": [
+      "Meal replacement shake"
+    ],
+    "adjustments": "Reschedule within 1 days if missed",
+    "metrics": "Macronutrients, Calories",
+    "required_equipment": [],
+    "required_specialists": [
+      "Nutritionist"
+    ],
+    "required_allied_health": [
+      "Occupational Therapist"
+    ]
+  },
+  {
+    "id": 131,
+    "activity_type": "Medication consumption",
+    "description": "Supplement Routine #131",
+    "frequency": "twice a month",
+    "details": "Take 2 tablet(s)",
+    "facilitator": "Nutritionist",
+    "location": "Gym",
+    "remote_possible": false,
+    "prep_needed": "Pill organizer filled",
+    "backup_activities": [
+      "Liquid alternative",
+      "Alternative dosage form (e.g., chewable)"
+    ],
+    "adjustments": "Reschedule within 3 days if missed",
+    "metrics": "Dosage, Timing",
+    "required_equipment": [],
+    "required_specialists": [
+      "Nutritionist"
+    ],
+    "required_allied_health": []
+  },
+  {
+    "id": 132,
+    "activity_type": "Medication consumption",
+    "description": "Dose Check #132",
+    "frequency": "once a month",
+    "details": "Take 3 tablet(s)",
+    "facilitator": "General Practitioner",
+    "location": "Clinic",
+    "remote_possible": false,
+    "prep_needed": "Pill organizer filled",
+    "backup_activities": [
+      "Liquid alternative",
+      "Alternative dosage form (e.g., chewable)"
+    ],
+    "adjustments": "Reschedule within 2 days if missed",
+    "metrics": "Timing, Dosage",
+    "required_equipment": [],
+    "required_specialists": [
+      "Health Coach"
+    ],
+    "required_allied_health": [
+      "Occupational Therapist"
+    ]
+  },
+  {
+    "id": 133,
+    "activity_type": "Food consumption",
+    "description": "Dinner Routine #133",
+    "frequency": "3 times a week",
+    "details": "Ensure vitamins intake",
+    "facilitator": "Nutritionist",
+    "location": "Local Park",
+    "remote_possible": false,
+    "prep_needed": "Meal prepped",
+    "backup_activities": [
+      "Meal replacement shake",
+      "Nutritional smoothie"
+    ],
+    "adjustments": "Reschedule within 3 days if missed",
+    "metrics": "Macronutrients, Calories",
+    "required_equipment": [],
+    "required_specialists": [
+      "Health Coach"
+    ],
+    "required_allied_health": []
+  },
+  {
+    "id": 134,
+    "activity_type": "Food consumption",
+    "description": "Supplement Plan #134",
+    "frequency": "once a week",
+    "details": "Ensure fiber intake",
+    "facilitator": "General Practitioner",
+    "location": "Rehabilitation Center",
+    "remote_possible": false,
+    "prep_needed": "Meal prepped",
+    "backup_activities": [
+      "Meal replacement shake"
+    ],
+    "adjustments": "Reschedule within 1 days if missed",
+    "metrics": "Calories, Macronutrients",
+    "required_equipment": [],
+    "required_specialists": [
+      "General Practitioner"
+    ],
+    "required_allied_health": [
+      "Physiotherapist"
+    ]
+  },
+  {
+    "id": 135,
+    "activity_type": "Fitness routine/exercise",
+    "description": "Cardio Plan #135",
+    "frequency": "twice a month",
+    "details": "Maintain HR between 149 bpm",
+    "facilitator": "Health Coach",
+    "location": "Home",
+    "remote_possible": true,
+    "prep_needed": "Water bottle",
+    "backup_activities": [
+      "Walking",
+      "Bodyweight exercises"
+    ],
+    "adjustments": "Reschedule within 3 days if missed",
+    "metrics": "Duration, Heart rate",
+    "required_equipment": [],
+    "required_specialists": [
+      "Nutritionist"
+    ],
+    "required_allied_health": [
+      "Dietitian"
+    ]
+  },
+  {
+    "id": 136,
+    "activity_type": "Fitness routine/exercise",
+    "description": "Cardio Routine #136",
+    "frequency": "twice a week",
+    "details": "Maintain HR between 144 bpm",
+    "facilitator": "Physical Therapist",
+    "location": "Home",
+    "remote_possible": true,
+    "prep_needed": "Proper attire",
+    "backup_activities": [
+      "Walking",
+      "Bodyweight exercises"
+    ],
+    "adjustments": "Reschedule within 2 days if missed",
+    "metrics": "Heart rate, Duration",
+    "required_equipment": [],
+    "required_specialists": [
+      "General Practitioner"
+    ],
+    "required_allied_health": []
+  },
+  {
+    "id": 137,
+    "activity_type": "Fitness routine/exercise",
+    "description": "Evening Routine #137",
+    "frequency": "3 times a week",
+    "details": "Maintain HR between 122 bpm",
+    "facilitator": "General Practitioner",
+    "location": "Rehabilitation Center",
+    "remote_possible": false,
+    "prep_needed": "Proper attire",
+    "backup_activities": [
+      "Bodyweight exercises"
+    ],
+    "adjustments": "Reschedule within 2 days if missed",
+    "metrics": "Duration, Heart rate",
+    "required_equipment": [],
+    "required_specialists": [
+      "General Practitioner"
+    ],
+    "required_allied_health": [
+      "Physiotherapist"
+    ]
+  },
+  {
+    "id": 138,
+    "activity_type": "Food consumption",
+    "description": "Breakfast Check #138",
+    "frequency": "twice a week",
+    "details": "Ensure protein intake",
+    "facilitator": "Nutritionist",
+    "location": "Spa Center",
+    "remote_possible": false,
+    "prep_needed": "Meal prepped",
+    "backup_activities": [
+      "Pre-packaged healthy meal"
+    ],
+    "adjustments": "Reschedule within 3 days if missed",
+    "metrics": "Calories, Macronutrients",
+    "required_equipment": [],
+    "required_specialists": [
+      "Physical Therapist"
+    ],
+    "required_allied_health": []
+  },
+  {
+    "id": 139,
+    "activity_type": "Medication consumption",
+    "description": "Dose Check #139",
+    "frequency": "twice a week",
+    "details": "Take 1 tablet(s)",
+    "facilitator": "Therapy Specialist",
+    "location": "Rehabilitation Center",
+    "remote_possible": false,
+    "prep_needed": "Pill organizer filled",
+    "backup_activities": [
+      "Liquid alternative"
+    ],
+    "adjustments": "Reschedule within 3 days if missed",
+    "metrics": "Timing, Dosage",
+    "required_equipment": [],
+    "required_specialists": [
+      "Physical Therapist"
+    ],
+    "required_allied_health": []
+  },
+  {
+    "id": 140,
+    "activity_type": "Fitness routine/exercise",
+    "description": "Morning Routine #140",
+    "frequency": "once a week",
+    "details": "Maintain HR between 125 bpm",
+    "facilitator": "Health Coach",
+    "location": "Local Park",
+    "remote_possible": true,
+    "prep_needed": "Proper attire",
+    "backup_activities": [
+      "Bodyweight exercises",
+      "Walking"
+    ],
+    "adjustments": "Reschedule within 1 days if missed",
+    "metrics": "Duration, Heart rate",
+    "required_equipment": [],
+    "required_specialists": [
+      "Therapy Specialist"
+    ],
+    "required_allied_health": [
+      "Dietitian"
+    ]
+  },
+  {
+    "id": 141,
+    "activity_type": "Consultation",
+    "description": "Nutrition Plan #141",
+    "frequency": "3 times a week",
+    "details": "Discuss progress and next steps",
+    "facilitator": "Yoga Instructor",
+    "location": "Spa Center",
+    "remote_possible": true,
+    "prep_needed": "Questions prepared",
+    "backup_activities": [
+      "Email follow-up"
+    ],
+    "adjustments": "Reschedule within 2 days if missed",
+    "metrics": "Next steps, Progress notes",
+    "required_equipment": [],
+    "required_specialists": [
+      "Personal Trainer"
+    ],
+    "required_allied_health": [
+      "Speech Therapist"
+    ]
+  },
+  {
+    "id": 142,
+    "activity_type": "Consultation",
+    "description": "Progress Session #142",
+    "frequency": "twice a week",
+    "details": "Discuss progress and next steps",
+    "facilitator": "Health Coach",
+    "location": "Rehabilitation Center",
+    "remote_possible": false,
+    "prep_needed": "Questions prepared",
+    "backup_activities": [
+      "Email follow-up"
+    ],
+    "adjustments": "Reschedule within 2 days if missed",
+    "metrics": "Next steps, Progress notes",
+    "required_equipment": [],
+    "required_specialists": [
+      "Personal Trainer"
+    ],
+    "required_allied_health": []
+  },
+  {
+    "id": 143,
+    "activity_type": "Food consumption",
+    "description": "Lunch Session #143",
+    "frequency": "once a month",
+    "details": "Ensure fiber intake",
+    "facilitator": "Therapy Specialist",
+    "location": "Home",
+    "remote_possible": false,
+    "prep_needed": "Meal prepped",
+    "backup_activities": [
+      "Nutritional smoothie"
+    ],
+    "adjustments": "Reschedule within 2 days if missed",
+    "metrics": "Calories, Macronutrients",
+    "required_equipment": [],
+    "required_specialists": [
+      "Physical Therapist"
+    ],
+    "required_allied_health": []
+  },
+  {
+    "id": 144,
+    "activity_type": "Fitness routine/exercise",
+    "description": "Recovery Session #144",
+    "frequency": "once a week",
+    "details": "Maintain HR between 105 bpm",
+    "facilitator": "Nutritionist",
+    "location": "Rehabilitation Center",
+    "remote_possible": false,
+    "prep_needed": "Water bottle",
+    "backup_activities": [
+      "Walking"
+    ],
+    "adjustments": "Reschedule within 1 days if missed",
+    "metrics": "Duration, Heart rate",
+    "required_equipment": [],
+    "required_specialists": [
+      "Personal Trainer"
+    ],
+    "required_allied_health": [
+      "Speech Therapist"
+    ]
+  },
+  {
+    "id": 145,
+    "activity_type": "Food consumption",
+    "description": "Snack Check #145",
+    "frequency": "once a month",
+    "details": "Ensure protein intake",
+    "facilitator": "Yoga Instructor",
+    "location": "Local Park",
+    "remote_possible": true,
+    "prep_needed": "Meal prepped",
+    "backup_activities": [
+      "Meal replacement shake",
+      "Nutritional smoothie"
+    ],
+    "adjustments": "Reschedule within 2 days if missed",
+    "metrics": "Macronutrients, Calories",
+    "required_equipment": [],
+    "required_specialists": [
+      "Physical Therapist"
+    ],
+    "required_allied_health": [
+      "Occupational Therapist"
+    ]
+  },
+  {
+    "id": 146,
+    "activity_type": "Consultation",
+    "description": "Nutrition Check #146",
+    "frequency": "3 times a week",
+    "details": "Discuss progress and next steps",
+    "facilitator": "Nutritionist",
+    "location": "Virtual",
+    "remote_possible": false,
+    "prep_needed": "Questions prepared",
+    "backup_activities": [
+      "Text message update"
+    ],
+    "adjustments": "Reschedule within 2 days if missed",
+    "metrics": "Progress notes, Next steps",
+    "required_equipment": [],
+    "required_specialists": [
+      "Therapy Specialist"
+    ],
+    "required_allied_health": []
+  },
+  {
+    "id": 147,
+    "activity_type": "Food consumption",
+    "description": "Lunch Session #147",
+    "frequency": "daily",
+    "details": "Ensure protein intake",
+    "facilitator": "Yoga Instructor",
+    "location": "Virtual",
+    "remote_possible": true,
+    "prep_needed": "Supplements ready",
+    "backup_activities": [
+      "Pre-packaged healthy meal"
+    ],
+    "adjustments": "Reschedule within 1 days if missed",
+    "metrics": "Calories, Macronutrients",
+    "required_equipment": [],
+    "required_specialists": [
+      "Nutritionist"
+    ],
+    "required_allied_health": [
+      "Dietitian"
+    ]
+  },
+  {
+    "id": 148,
+    "activity_type": "Fitness routine/exercise",
+    "description": "Cardio Plan #148",
+    "frequency": "daily",
+    "details": "Maintain HR between 105 bpm",
+    "facilitator": "Health Coach",
+    "location": "Home",
+    "remote_possible": false,
+    "prep_needed": "Water bottle",
+    "backup_activities": [
+      "Bodyweight exercises"
+    ],
+    "adjustments": "Reschedule within 2 days if missed",
+    "metrics": "Duration, Heart rate",
+    "required_equipment": [],
+    "required_specialists": [
+      "Therapy Specialist"
+    ],
+    "required_allied_health": []
+  },
+  {
+    "id": 149,
+    "activity_type": "Consultation",
+    "description": "Progress Session #149",
+    "frequency": "twice a week",
+    "details": "Discuss progress and next steps",
+    "facilitator": "Yoga Instructor",
+    "location": "Spa Center",
+    "remote_possible": true,
+    "prep_needed": "Questions prepared",
+    "backup_activities": [
+      "Text message update"
+    ],
+    "adjustments": "Reschedule within 2 days if missed",
+    "metrics": "Next steps, Progress notes",
+    "required_equipment": [],
+    "required_specialists": [
+      "General Practitioner"
+    ],
+    "required_allied_health": [
+      "Occupational Therapist"
+    ]
+  },
+  {
+    "id": 150,
+    "activity_type": "Medication consumption",
+    "description": "Dose Check #150",
+    "frequency": "once a week",
+    "details": "Take 3 tablet(s)",
+    "facilitator": "Physical Therapist",
+    "location": "Virtual",
+    "remote_possible": false,
+    "prep_needed": "Pill organizer filled",
+    "backup_activities": [
+      "Liquid alternative"
+    ],
+    "adjustments": "Reschedule within 2 days if missed",
+    "metrics": "Dosage, Timing",
+    "required_equipment": [],
+    "required_specialists": [
+      "Health Coach"
+    ],
+    "required_allied_health": [
+      "Speech Therapist"
+    ]
+  }
+]
